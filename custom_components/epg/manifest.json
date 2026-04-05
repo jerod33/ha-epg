@@ -1,7 +1,7 @@
 {
   "domain": "epg",
   "name": "EPG",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "documentation": "https://github.com/jerod33/ha-epg",
   "requirements": ["aiofiles>=23.0.0", "xmltodict>=0.13.0"],
   "codeowners": ["@jerod33"],
