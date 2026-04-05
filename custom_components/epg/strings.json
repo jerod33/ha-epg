@@ -1,0 +1,64 @@
+{
+  "config": {
+    "abort": {
+      "already_configured": "EPG je již nakonfigurováno"
+    },
+    "step": {
+      "user": {
+        "title": "Nastavení EPG",
+        "data": {
+          "days": "Počet dní dopředu (1–7)",
+          "selection_mode": "Způsob výběru kanálů"
+        }
+      },
+      "select_language": {
+        "title": "Výběr jazyků",
+        "data": {
+          "languages": "Jazyky"
+        }
+      },
+      "select_provider": {
+        "title": "Výběr providera",
+        "data": {
+          "providers": "Provideři"
+        }
+      },
+      "channel_page": {
+        "title": "Výběr kanálů (stránka {page} z {total})",
+        "data": {
+          "tv_ids": "Kanály"
+        }
+      }
+    }
+  },
+  "options": {
+    "step": {
+      "init": {
+        "title": "Nastavení EPG",
+        "data": {
+          "days": "Počet dní dopředu (1–7)",
+          "selection_mode": "Způsob výběru kanálů"
+        }
+      },
+      "select_language": {
+        "title": "Výběr jazyků",
+        "data": {
+          "languages": "Jazyky"
+        }
+      },
+      "select_provider": {
+        "title": "Výběr providera",
+        "data": {
+          "providers": "Provideři"
+        }
+      },
+      "channel_page": {
+        "title": "Výběr kanálů (stránka {page} z {total})",
+        "data": {
+          "tv_ids": "Kanály"
+        }
+      }
+    }
+  },
+  "title": "EPG"
+}

@@ -1,0 +1,6699 @@
+[
+  {
+    "id": "2",
+    "name": "ČT1",
+    "logo_url": "ct1.png",
+    "lang_code": "CZ",
+    "category": "České",
+    "providers": [
+      "O2",
+      "Skylink",
+      "Skylink SK"
+    ]
+  },
+  {
+    "id": "3",
+    "name": "ČT2",
+    "logo_url": "ct2.png",
+    "lang_code": "CZ",
+    "category": "České",
+    "providers": [
+      "O2",
+      "Skylink",
+      "Skylink SK"
+    ]
+  },
+  {
+    "id": "1",
+    "name": "Nova",
+    "logo_url": "nova.png",
+    "lang_code": "CZ",
+    "category": "České",
+    "providers": [
+      "O2",
+      "Skylink",
+      "Skylink SK"
+    ]
+  },
+  {
+    "id": "4",
+    "name": "Prima",
+    "logo_url": "prima.png",
+    "lang_code": "CZ",
+    "category": "České",
+    "providers": [
+      "O2",
+      "Skylink",
+      "Skylink SK"
+    ]
+  },
+  {
+    "id": "220",
+    "name": "Prima Cool",
+    "logo_url": "prima_cool.png",
+    "lang_code": "CZ",
+    "category": "České",
+    "providers": [
+      "O2",
+      "Skylink",
+      "Skylink SK"
+    ]
+  },
+  {
+    "id": "215",
+    "name": "Barrandov",
+    "logo_url": "barrandov.png",
+    "lang_code": "CZ",
+    "category": "České",
+    "providers": [
+      "O2",
+      "Skylink",
+      "Skylink SK"
+    ]
+  },
+  {
+    "id": "132",
+    "name": "Nova Cinema",
+    "logo_url": "nova_cinema.png",
+    "lang_code": "CZ",
+    "category": "České",
+    "providers": [
+      "O2",
+      "Skylink",
+      "Skylink SK"
+    ]
+  },
+  {
+    "id": "82",
+    "name": "AMC",
+    "logo_url": "amc.png",
+    "lang_code": "CZ",
+    "category": "České",
+    "providers": [
+      "O2",
+      "Skylink",
+      "Skylink SK"
+    ]
+  },
+  {
+    "id": "28",
+    "name": "Animal Planet",
+    "logo_url": "animal_planet.png",
+    "lang_code": "CZ",
+    "category": "České",
+    "providers": [
+      "O2",
+      "Skylink"
+    ]
+  },
+  {
+    "id": "704",
+    "name": "Auto Motor Sport",
+    "logo_url": "automoto.png",
+    "lang_code": "CZ",
+    "category": "České",
+    "providers": [
+      "Skylink",
+      "Skylink SK"
+    ]
+  },
+  {
+    "id": "55",
+    "name": "AXN",
+    "logo_url": "axn.png",
+    "lang_code": "CZ",
+    "category": "České",
+    "providers": [
+      "O2",
+      "Skylink",
+      "Skylink SK"
+    ]
+  },
+  {
+    "id": "216",
+    "name": "AXN Digi TV",
+    "logo_url": "axn.png",
+    "lang_code": "CZ",
+    "category": "České",
+    "providers": []
+  },
+  {
+    "id": "125",
+    "name": "AXN Black",
+    "logo_url": "axn_black.png",
+    "lang_code": "CZ",
+    "category": "České",
+    "providers": [
+      "O2",
+      "Skylink SK"
+    ]
+  },
+  {
+    "id": "883",
+    "name": "AXN HD",
+    "logo_url": "axn_hd.png",
+    "lang_code": "CZ",
+    "category": "České",
+    "providers": []
+  },
+  {
+    "id": "126",
+    "name": "AXN White",
+    "logo_url": "axn_white.png",
+    "lang_code": "CZ",
+    "category": "České",
+    "providers": [
+      "O2",
+      "Skylink SK"
+    ]
+  },
+  {
+    "id": "1020",
+    "name": "Barrandov Krimi",
+    "logo_url": "barrandov_krimi.png",
+    "lang_code": "CZ",
+    "category": "České",
+    "providers": [
+      "O2",
+      "Skylink",
+      "Skylink SK"
+    ]
+  },
+  {
+    "id": "66",
+    "name": "Cinemax",
+    "logo_url": "cinemax.png",
+    "lang_code": "CZ",
+    "category": "České",
+    "providers": [
+      "O2",
+      "Skylink",
+      "Skylink SK"
+    ]
+  },
+  {
+    "id": "80",
+    "name": "Cinemax 2",
+    "logo_url": "cinemax2.png",
+    "lang_code": "CZ",
+    "category": "České",
+    "providers": [
+      "O2",
+      "Skylink SK"
+    ]
+  },
+  {
+    "id": "832",
+    "name": "Crime and Investigation",
+    "logo_url": "ci.png",
+    "lang_code": "CZ",
+    "category": "České",
+    "providers": []
+  },
+  {
+    "id": "805",
+    "name": "ČT :D",
+    "logo_url": "ctd.png",
+    "lang_code": "CZ",
+    "category": "České",
+    "providers": [
+      "Skylink"
+    ]
+  },
+  {
+    "id": "804",
+    "name": "ČT art",
+    "logo_url": "ctart.png",
+    "lang_code": "CZ",
+    "category": "České",
+    "providers": [
+      "Skylink"
+    ]
+  },
+  {
+    "id": "65",
+    "name": "ČT24",
+    "logo_url": "ct24.png",
+    "lang_code": "CZ",
+    "category": "České",
+    "providers": [
+      "O2",
+      "Skylink",
+      "Skylink SK"
+    ]
+  },
+  {
+    "id": "73",
+    "name": "ČT sport",
+    "logo_url": "ct4.png",
+    "lang_code": "CZ",
+    "category": "České",
+    "providers": [
+      "O2",
+      "Skylink",
+      "Skylink SK"
+    ]
+  },
+  {
+    "id": "15",
+    "name": "Discovery Channel",
+    "logo_url": "Discovery.png",
+    "lang_code": "CZ",
+    "category": "České",
+    "providers": [
+      "O2",
+      "Skylink"
+    ]
+  },
+  {
+    "id": "9",
+    "name": "Eurosport 1",
+    "logo_url": "eurosport1.png",
+    "lang_code": "CZ",
+    "category": "České",
+    "providers": [
+      "O2",
+      "Skylink"
+    ]
+  },
+  {
+    "id": "59",
+    "name": "Eurosport 2",
+    "logo_url": "eurosport2.png",
+    "lang_code": "CZ",
+    "category": "České",
+    "providers": [
+      "O2",
+      "Skylink"
+    ]
+  },
+  {
+    "id": "677",
+    "name": "Nova Action",
+    "logo_url": "nova_action.png",
+    "lang_code": "CZ",
+    "category": "České",
+    "providers": [
+      "O2",
+      "Skylink",
+      "Skylink SK"
+    ]
+  },
+  {
+    "id": "68",
+    "name": "Film+",
+    "logo_url": "film_plus.png",
+    "lang_code": "CZ",
+    "category": "České",
+    "providers": [
+      "O2",
+      "Skylink",
+      "Skylink SK"
+    ]
+  },
+  {
+    "id": "72",
+    "name": "Filmbox",
+    "logo_url": "filmbox.png",
+    "lang_code": "CZ",
+    "category": "České",
+    "providers": [
+      "O2",
+      "Skylink",
+      "Skylink SK"
+    ]
+  },
+  {
+    "id": "592",
+    "name": "Filmbox Premium",
+    "logo_url": "filmbox-premium.png",
+    "lang_code": "CZ",
+    "category": "České",
+    "providers": [
+      "O2",
+      "Skylink",
+      "Skylink SK"
+    ]
+  },
+  {
+    "id": "576",
+    "name": "Filmbox Family",
+    "logo_url": "filmboxfamily.png",
+    "lang_code": "CZ",
+    "category": "České",
+    "providers": [
+      "O2",
+      "Skylink",
+      "Skylink SK"
+    ]
+  },
+  {
+    "id": "182",
+    "name": "Filmbox Extra HD",
+    "logo_url": "filmboxhd.png",
+    "lang_code": "CZ",
+    "category": "České",
+    "providers": [
+      "O2",
+      "Skylink",
+      "Skylink SK"
+    ]
+  },
+  {
+    "id": "76",
+    "name": "Filmbox Stars",
+    "logo_url": "filmboxstars.png",
+    "lang_code": "CZ",
+    "category": "České",
+    "providers": [
+      "O2",
+      "Skylink",
+      "Skylink SK"
+    ]
+  },
+  {
+    "id": "570",
+    "name": "Film Europe",
+    "logo_url": "filmeurope.png",
+    "lang_code": "CZ",
+    "category": "České",
+    "providers": [
+      "O2",
+      "Skylink",
+      "Skylink SK"
+    ]
+  },
+  {
+    "id": "1039",
+    "name": "Food Network",
+    "logo_url": "food_network.png",
+    "lang_code": "CZ",
+    "category": "České",
+    "providers": [
+      "O2",
+      "Skylink"
+    ]
+  },
+  {
+    "id": "127",
+    "name": "Golf Channel",
+    "logo_url": "golfchannel.png",
+    "lang_code": "CZ",
+    "category": "České",
+    "providers": [
+      "O2",
+      "Skylink",
+      "Skylink SK"
+    ]
+  },
+  {
+    "id": "6",
+    "name": "HBO",
+    "logo_url": "HBO.png",
+    "lang_code": "CZ",
+    "category": "České",
+    "providers": [
+      "O2",
+      "Skylink",
+      "Skylink SK"
+    ]
+  },
+  {
+    "id": "54",
+    "name": "HBO2",
+    "logo_url": "HBO2.png",
+    "lang_code": "CZ",
+    "category": "České",
+    "providers": [
+      "O2",
+      "Skylink",
+      "Skylink SK"
+    ]
+  },
+  {
+    "id": "115",
+    "name": "HBO3",
+    "logo_url": "hbo3.png",
+    "lang_code": "CZ",
+    "category": "České",
+    "providers": [
+      "O2",
+      "Skylink",
+      "Skylink SK"
+    ]
+  },
+  {
+    "id": "202",
+    "name": "History Channel",
+    "logo_url": "history_channel_hd.png",
+    "lang_code": "CZ",
+    "category": "České",
+    "providers": [
+      "O2",
+      "Skylink",
+      "Skylink SK"
+    ]
+  },
+  {
+    "id": "713",
+    "name": "CS Horror",
+    "logo_url": "cshorror.png",
+    "lang_code": "CZ",
+    "category": "České",
+    "providers": [
+      "O2",
+      "Skylink",
+      "Skylink SK"
+    ]
+  },
+  {
+    "id": "850",
+    "name": "Jihočeská televize",
+    "logo_url": "jtv.png",
+    "lang_code": "CZ",
+    "category": "České",
+    "providers": []
+  },
+  {
+    "id": "137",
+    "name": "Jim Jam",
+    "logo_url": "jim-jam.png",
+    "lang_code": "CZ",
+    "category": "České",
+    "providers": [
+      "O2",
+      "Skylink",
+      "Skylink SK"
+    ]
+  },
+  {
+    "id": "1018",
+    "name": "Barrandov Kino",
+    "logo_url": "kinobarrandov.png",
+    "lang_code": "CZ",
+    "category": "České",
+    "providers": [
+      "O2",
+      "Skylink",
+      "Skylink SK"
+    ]
+  },
+  {
+    "id": "717",
+    "name": "CS Mystery",
+    "logo_url": "csmystery.png",
+    "lang_code": "CZ",
+    "category": "České",
+    "providers": [
+      "Skylink",
+      "Skylink SK"
+    ]
+  },
+  {
+    "id": "200",
+    "name": "Leo",
+    "logo_url": "leo.png",
+    "lang_code": "CZ",
+    "category": "České",
+    "providers": [
+      "O2",
+      "Skylink",
+      "Skylink SK"
+    ]
+  },
+  {
+    "id": "57",
+    "name": "Minimax",
+    "logo_url": "Minimax.png",
+    "lang_code": "CZ",
+    "category": "České",
+    "providers": [
+      "O2",
+      "Skylink",
+      "Skylink SK"
+    ]
+  },
+  {
+    "id": "1012",
+    "name": "Mňam TV",
+    "logo_url": "mnam.png",
+    "lang_code": "CZ",
+    "category": "České",
+    "providers": [
+      "O2",
+      "Skylink SK"
+    ]
+  },
+  {
+    "id": "234",
+    "name": "MTV",
+    "logo_url": "mtv.png",
+    "lang_code": "CZ",
+    "category": "České",
+    "providers": [
+      "O2",
+      "Skylink SK"
+    ]
+  },
+  {
+    "id": "232",
+    "name": "National Geographic HD",
+    "logo_url": "NG_HD.png",
+    "lang_code": "CZ",
+    "category": "České",
+    "providers": [
+      "O2",
+      "Skylink",
+      "Skylink SK"
+    ]
+  },
+  {
+    "id": "106",
+    "name": "National Geographic Wild",
+    "logo_url": "ngwild.png",
+    "lang_code": "CZ",
+    "category": "České",
+    "providers": [
+      "O2",
+      "Skylink",
+      "Skylink SK"
+    ]
+  },
+  {
+    "id": "254",
+    "name": "Nickelodeon",
+    "logo_url": "nickelodeon.png",
+    "lang_code": "CZ",
+    "category": "České",
+    "providers": [
+      "O2",
+      "Skylink",
+      "Skylink SK"
+    ]
+  },
+  {
+    "id": "205",
+    "name": "Nova Sport 1",
+    "logo_url": "nova_sport_1.png",
+    "lang_code": "CZ",
+    "category": "České",
+    "providers": [
+      "O2",
+      "Skylink",
+      "Skylink SK"
+    ]
+  },
+  {
+    "id": "1038",
+    "name": "Nova Sport 2",
+    "logo_url": "nova_sport_2.png",
+    "lang_code": "CZ",
+    "category": "České",
+    "providers": [
+      "O2",
+      "Skylink",
+      "Skylink SK"
+    ]
+  },
+  {
+    "id": "114",
+    "name": "Noe",
+    "logo_url": "noe.png",
+    "lang_code": "CZ",
+    "category": "České",
+    "providers": [
+      "O2",
+      "Skylink SK"
+    ]
+  },
+  {
+    "id": "1025",
+    "name": "O2 Info 1",
+    "logo_url": "o2tv.png",
+    "lang_code": "CZ",
+    "category": "České",
+    "providers": [
+      "O2"
+    ]
+  },
+  {
+    "id": "1040",
+    "name": "O2 Sport",
+    "logo_url": "o2_sport.png",
+    "lang_code": "CZ",
+    "category": "České",
+    "providers": [
+      "O2"
+    ]
+  },
+  {
+    "id": "53",
+    "name": "Óčko",
+    "logo_url": "ocko.png",
+    "lang_code": "CZ",
+    "category": "České",
+    "providers": [
+      "O2",
+      "Skylink",
+      "Skylink SK"
+    ]
+  },
+  {
+    "id": "831",
+    "name": "Óčko Expres",
+    "logo_url": "ocko-expres.png",
+    "lang_code": "CZ",
+    "category": "České",
+    "providers": [
+      "O2"
+    ]
+  },
+  {
+    "id": "736",
+    "name": "Óčko Star",
+    "logo_url": "ocko-gold.png",
+    "lang_code": "CZ",
+    "category": "České",
+    "providers": [
+      "O2",
+      "Skylink",
+      "Skylink SK"
+    ]
+  },
+  {
+    "id": "251",
+    "name": "OIK TV",
+    "logo_url": "oik.png",
+    "lang_code": "CZ",
+    "category": "České",
+    "providers": []
+  },
+  {
+    "id": "62",
+    "name": "Paprika",
+    "logo_url": "paprika.png",
+    "lang_code": "CZ",
+    "category": "České",
+    "providers": [
+      "O2",
+      "Skylink",
+      "Skylink SK"
+    ]
+  },
+  {
+    "id": "1122",
+    "name": "Prima MAX",
+    "logo_url": "prima_max.png",
+    "lang_code": "CZ",
+    "category": "České",
+    "providers": [
+      "O2",
+      "Skylink",
+      "Skylink SK"
+    ]
+  },
+  {
+    "id": "1196",
+    "name": "Prima Krimi",
+    "logo_url": "prima_krimi.png",
+    "lang_code": "CZ",
+    "category": "České",
+    "providers": [
+      "O2",
+      "Skylink",
+      "Skylink SK"
+    ]
+  },
+  {
+    "id": "496",
+    "name": "Prima LOVE",
+    "logo_url": "primalove.png",
+    "lang_code": "CZ",
+    "category": "České",
+    "providers": [
+      "O2",
+      "Skylink",
+      "Skylink SK"
+    ]
+  },
+  {
+    "id": "589",
+    "name": "POLAR",
+    "logo_url": "polar.png",
+    "lang_code": "CZ",
+    "category": "České",
+    "providers": []
+  },
+  {
+    "id": "879",
+    "name": "Rebel",
+    "logo_url": "rebel.png",
+    "lang_code": "CZ",
+    "category": "České",
+    "providers": [
+      "O2",
+      "Skylink",
+      "Skylink SK"
+    ]
+  },
+  {
+    "id": "889",
+    "name": "PRAHA TV",
+    "logo_url": "prahatv.png",
+    "lang_code": "CZ",
+    "category": "České",
+    "providers": [
+      "O2"
+    ]
+  },
+  {
+    "id": "681",
+    "name": "A11",
+    "logo_url": "nasregiontv.png",
+    "lang_code": "CZ",
+    "category": "České",
+    "providers": [
+      "Skylink",
+      "Skylink SK"
+    ]
+  },
+  {
+    "id": "248",
+    "name": "Retro Music",
+    "logo_url": "Retro.png",
+    "lang_code": "CZ",
+    "category": "České",
+    "providers": [
+      "O2",
+      "Skylink",
+      "Skylink SK"
+    ]
+  },
+  {
+    "id": "252",
+    "name": "RTM",
+    "logo_url": "rtm.png",
+    "lang_code": "CZ",
+    "category": "České",
+    "providers": []
+  },
+  {
+    "id": "1024",
+    "name": "RT Ústecko",
+    "logo_url": "rt_ustecko.png",
+    "lang_code": "CZ",
+    "category": "České",
+    "providers": []
+  },
+  {
+    "id": "544",
+    "name": "Slovácko",
+    "logo_url": "slovacko.png",
+    "lang_code": "CZ",
+    "category": "České",
+    "providers": []
+  },
+  {
+    "id": "707",
+    "name": "Nova Fun",
+    "logo_url": "nova_2.png",
+    "lang_code": "CZ",
+    "category": "České",
+    "providers": [
+      "O2",
+      "Skylink",
+      "Skylink SK"
+    ]
+  },
+  {
+    "id": "7",
+    "name": "Spektrum",
+    "logo_url": "spektrum.png",
+    "lang_code": "CZ",
+    "category": "České",
+    "providers": [
+      "O2",
+      "Skylink",
+      "Skylink SK"
+    ]
+  },
+  {
+    "id": "77",
+    "name": "Spektrum Home",
+    "logo_url": "spektrumhome.png",
+    "lang_code": "CZ",
+    "category": "České",
+    "providers": [
+      "O2",
+      "Skylink SK"
+    ]
+  },
+  {
+    "id": "75",
+    "name": "Sport1",
+    "logo_url": "sport1.png",
+    "lang_code": "CZ",
+    "category": "České",
+    "providers": [
+      "O2",
+      "Skylink",
+      "Skylink SK"
+    ]
+  },
+  {
+    "id": "221",
+    "name": "Sport2",
+    "logo_url": "sport2.png",
+    "lang_code": "CZ",
+    "category": "České",
+    "providers": [
+      "O2",
+      "Skylink",
+      "Skylink SK"
+    ]
+  },
+  {
+    "id": "684",
+    "name": "Šlágr Originál",
+    "logo_url": "slagroriginal.png",
+    "lang_code": "CZ",
+    "category": "České",
+    "providers": [
+      "O2",
+      "Skylink",
+      "Skylink SK"
+    ]
+  },
+  {
+    "id": "712",
+    "name": "Nova Krimi",
+    "logo_url": "nova_gold.png",
+    "lang_code": "CZ",
+    "category": "České",
+    "providers": [
+      "O2",
+      "Skylink",
+      "Skylink SK"
+    ]
+  },
+  {
+    "id": "207",
+    "name": "Fishing & Hunting",
+    "logo_url": "fishingandhunting.png",
+    "lang_code": "CZ",
+    "category": "České",
+    "providers": [
+      "O2",
+      "Skylink SK"
+    ]
+  },
+  {
+    "id": "194",
+    "name": "TIK",
+    "logo_url": "TIK.png",
+    "lang_code": "CZ",
+    "category": "České",
+    "providers": []
+  },
+  {
+    "id": "549",
+    "name": "TLC",
+    "logo_url": "tlc.png",
+    "lang_code": "CZ",
+    "category": "České",
+    "providers": [
+      "O2",
+      "Skylink"
+    ]
+  },
+  {
+    "id": "104",
+    "name": "Travel Channel",
+    "logo_url": "travelch.png",
+    "lang_code": "CZ",
+    "category": "České",
+    "providers": [
+      "O2",
+      "Skylink"
+    ]
+  },
+  {
+    "id": "716",
+    "name": "RELAX",
+    "logo_url": "relax.png",
+    "lang_code": "CZ",
+    "category": "České",
+    "providers": [
+      "O2",
+      "Skylink",
+      "Skylink SK"
+    ]
+  },
+  {
+    "id": "878",
+    "name": "regiony+",
+    "logo_url": "upcexpress.png",
+    "lang_code": "CZ",
+    "category": "České",
+    "providers": []
+  },
+  {
+    "id": "706",
+    "name": "V1",
+    "logo_url": "v1.png",
+    "lang_code": "CZ",
+    "category": "České",
+    "providers": []
+  },
+  {
+    "id": "69",
+    "name": "Viasat Explore",
+    "logo_url": "viasatexplore.png",
+    "lang_code": "CZ",
+    "category": "České",
+    "providers": [
+      "O2",
+      "Skylink SK"
+    ]
+  },
+  {
+    "id": "70",
+    "name": "Viasat History",
+    "logo_url": "viasathistory.png",
+    "lang_code": "CZ",
+    "category": "České",
+    "providers": [
+      "O2",
+      "Skylink",
+      "Skylink SK"
+    ]
+  },
+  {
+    "id": "249",
+    "name": "Viasat Nature",
+    "logo_url": "viasatnature.png",
+    "lang_code": "CZ",
+    "category": "České",
+    "providers": [
+      "O2",
+      "Skylink",
+      "Skylink SK"
+    ]
+  },
+  {
+    "id": "848",
+    "name": "ZAK",
+    "logo_url": "zak.png",
+    "lang_code": "CZ",
+    "category": "České",
+    "providers": []
+  },
+  {
+    "id": "228",
+    "name": "Disney Channel",
+    "logo_url": "disneychannel.png",
+    "lang_code": "CZ",
+    "category": "České",
+    "providers": [
+      "O2",
+      "Skylink",
+      "Skylink SK"
+    ]
+  },
+  {
+    "id": "1138",
+    "name": "Extasy",
+    "logo_url": "extasy.png",
+    "lang_code": "CZ",
+    "category": "České",
+    "providers": []
+  },
+  {
+    "id": "1023",
+    "name": "JOJ Cinema",
+    "logo_url": "joj_cinema.png",
+    "lang_code": "CZ",
+    "category": "České",
+    "providers": [
+      "O2",
+      "Skylink",
+      "Skylink SK"
+    ]
+  },
+  {
+    "id": "1140",
+    "name": "O2TV Fotbal",
+    "logo_url": "o2tv_fotbal.png",
+    "lang_code": "CZ",
+    "category": "České",
+    "providers": [
+      "O2"
+    ]
+  },
+  {
+    "id": "223",
+    "name": "ID",
+    "logo_url": "id.png",
+    "lang_code": "CZ",
+    "category": "České",
+    "providers": [
+      "O2"
+    ]
+  },
+  {
+    "id": "83",
+    "name": "FashionTV",
+    "logo_url": "FashionTV.png",
+    "lang_code": "CZ",
+    "category": "České",
+    "providers": [
+      "O2"
+    ]
+  },
+  {
+    "id": "1141",
+    "name": "JOJ Family",
+    "logo_url": "joj_family.png",
+    "lang_code": "CZ",
+    "category": "České",
+    "providers": [
+      "O2",
+      "Skylink",
+      "Skylink SK"
+    ]
+  },
+  {
+    "id": "1148",
+    "name": "Mňau TV",
+    "logo_url": "mnau.png",
+    "lang_code": "CZ",
+    "category": "České",
+    "providers": [
+      "Skylink"
+    ]
+  },
+  {
+    "id": "1149",
+    "name": "CS Film",
+    "logo_url": "csfilm.png",
+    "lang_code": "CZ",
+    "category": "České",
+    "providers": [
+      "O2",
+      "Skylink SK"
+    ]
+  },
+  {
+    "id": "1187",
+    "name": "CS History",
+    "logo_url": "cshistory.png",
+    "lang_code": "CZ",
+    "category": "České",
+    "providers": [
+      "Skylink SK"
+    ]
+  },
+  {
+    "id": "1190",
+    "name": "TV Brno 1",
+    "logo_url": "tvbrno1.png",
+    "lang_code": "CZ",
+    "category": "České",
+    "providers": []
+  },
+  {
+    "id": "1192",
+    "name": "Seznam.cz TV",
+    "logo_url": "seznamcztv.png",
+    "lang_code": "CZ",
+    "category": "České",
+    "providers": [
+      "O2"
+    ]
+  },
+  {
+    "id": "708",
+    "name": "Prima ZOOM",
+    "logo_url": "prima_zoom.png",
+    "lang_code": "CZ",
+    "category": "České",
+    "providers": [
+      "O2",
+      "Skylink",
+      "Skylink SK"
+    ]
+  },
+  {
+    "id": "1197",
+    "name": "Prima +1",
+    "logo_url": "primaplus1.png",
+    "lang_code": "CZ",
+    "category": "České",
+    "providers": []
+  },
+  {
+    "id": "1198",
+    "name": "Šlágr Muzika",
+    "logo_url": "slagrmuzika.png",
+    "lang_code": "CZ",
+    "category": "České",
+    "providers": [
+      "Skylink SK"
+    ]
+  },
+  {
+    "id": "1199",
+    "name": "Travelxp HD",
+    "logo_url": "travelxp.png",
+    "lang_code": "CZ",
+    "category": "České",
+    "providers": [
+      "Skylink SK"
+    ]
+  },
+  {
+    "id": "1208",
+    "name": "RTM plus Liberecko",
+    "logo_url": "rtmplus.png",
+    "lang_code": "CZ",
+    "category": "České",
+    "providers": []
+  },
+  {
+    "id": "1209",
+    "name": "Epic Drama",
+    "logo_url": "epicdrama.png",
+    "lang_code": "CZ",
+    "category": "České",
+    "providers": [
+      "O2",
+      "Skylink SK"
+    ]
+  },
+  {
+    "id": "1213",
+    "name": "Hobby TV",
+    "logo_url": "hobbytv.png",
+    "lang_code": "CZ",
+    "category": "České",
+    "providers": [
+      "Skylink SK"
+    ]
+  },
+  {
+    "id": "1241",
+    "name": "Leo TV Gold",
+    "logo_url": "leo_gold.png",
+    "lang_code": "CZ",
+    "category": "České",
+    "providers": []
+  },
+  {
+    "id": "1242",
+    "name": "Óčko Black",
+    "logo_url": "ocko_black.png",
+    "lang_code": "CZ",
+    "category": "České",
+    "providers": [
+      "O2",
+      "Skylink"
+    ]
+  },
+  {
+    "id": "1245",
+    "name": "Lala TV",
+    "logo_url": "lalatv.png",
+    "lang_code": "CZ",
+    "category": "České",
+    "providers": [
+      "Skylink SK"
+    ]
+  },
+  {
+    "id": "1271",
+    "name": "Nickelodeon (affiliate)",
+    "logo_url": "nickelodeon.png",
+    "lang_code": "CZ",
+    "category": "České",
+    "providers": []
+  },
+  {
+    "id": "168",
+    "name": "Cartoon Network",
+    "logo_url": "CNT.png",
+    "lang_code": "CZ",
+    "category": "České",
+    "providers": [
+      "Skylink SK"
+    ]
+  },
+  {
+    "id": "1314",
+    "name": "Nicktoons",
+    "logo_url": "nicktoons.png",
+    "lang_code": "CZ",
+    "category": "České",
+    "providers": [
+      "Skylink SK"
+    ]
+  },
+  {
+    "id": "1320",
+    "name": "Love Nature",
+    "logo_url": "lovenature.png",
+    "lang_code": "CZ",
+    "category": "České",
+    "providers": [
+      "Skylink SK"
+    ]
+  },
+  {
+    "id": "1338",
+    "name": "CNN Prima News",
+    "logo_url": "cnnprima.png",
+    "lang_code": "CZ",
+    "category": "České",
+    "providers": [
+      "Skylink SK"
+    ]
+  },
+  {
+    "id": "1337",
+    "name": "ABC TV",
+    "logo_url": "abctv.png",
+    "lang_code": "CZ",
+    "category": "České",
+    "providers": []
+  },
+  {
+    "id": "1341",
+    "name": "Film Europe +",
+    "logo_url": "filmeuropeplus.png",
+    "lang_code": "CZ",
+    "category": "České",
+    "providers": [
+      "Skylink SK"
+    ]
+  },
+  {
+    "id": "1343",
+    "name": "JOJ Cinema +1",
+    "logo_url": "joj_cinemaplus1.png",
+    "lang_code": "CZ",
+    "category": "České",
+    "providers": []
+  },
+  {
+    "id": "572",
+    "name": "Nick Jr.",
+    "logo_url": "nickjr.png",
+    "lang_code": "CZ",
+    "category": "České",
+    "providers": [
+      "O2",
+      "Skylink",
+      "Skylink SK"
+    ]
+  },
+  {
+    "id": "1367",
+    "name": "Premium",
+    "logo_url": "slagrpremium.png",
+    "lang_code": "CZ",
+    "category": "České",
+    "providers": [
+      "Skylink SK"
+    ]
+  },
+  {
+    "id": "1513",
+    "name": "Prima Star",
+    "logo_url": "prima_star.png",
+    "lang_code": "CZ",
+    "category": "České",
+    "providers": [
+      "Skylink SK"
+    ]
+  },
+  {
+    "id": "1520",
+    "name": "Nova Sport 3",
+    "logo_url": "nova_sport_3.png",
+    "lang_code": "CZ",
+    "category": "České",
+    "providers": []
+  },
+  {
+    "id": "1521",
+    "name": "Nova Sport 4",
+    "logo_url": "nova_sport_4.png",
+    "lang_code": "CZ",
+    "category": "České",
+    "providers": []
+  },
+  {
+    "id": "1522",
+    "name": "Premier Sport 2",
+    "logo_url": "premiersport2.png",
+    "lang_code": "CZ",
+    "category": "České",
+    "providers": []
+  },
+  {
+    "id": "15290",
+    "name": "Nova Lady",
+    "logo_url": "novalady.png",
+    "lang_code": "CZ",
+    "category": "České",
+    "providers": []
+  },
+  {
+    "id": "15292",
+    "name": "Prima Show",
+    "logo_url": "prima_show.png",
+    "lang_code": "CZ",
+    "category": "České",
+    "providers": [
+      "Skylink SK"
+    ]
+  },
+  {
+    "id": "15297",
+    "name": "O2TV Sport5",
+    "logo_url": "o2tv_sport5.png",
+    "lang_code": "CZ",
+    "category": "České",
+    "providers": []
+  },
+  {
+    "id": "15298",
+    "name": "O2TV Sport6",
+    "logo_url": "o2tv_sport65.png",
+    "lang_code": "CZ",
+    "category": "České",
+    "providers": []
+  },
+  {
+    "id": "15299",
+    "name": "Extasy 4K Platinum",
+    "logo_url": "extasy4k.png",
+    "lang_code": "CZ",
+    "category": "České",
+    "providers": []
+  },
+  {
+    "id": "15322",
+    "name": "HGTV",
+    "logo_url": "hgtv.png",
+    "lang_code": "CZ",
+    "category": "České",
+    "providers": []
+  },
+  {
+    "id": "15237",
+    "name": "O2TV Sport3",
+    "logo_url": "o2tv_sport3.png",
+    "lang_code": "CZ",
+    "category": "České",
+    "providers": []
+  },
+  {
+    "id": "15238",
+    "name": "O2TV Sport4",
+    "logo_url": "o2tv_sport4.png",
+    "lang_code": "CZ",
+    "category": "České",
+    "providers": []
+  },
+  {
+    "id": "15239",
+    "name": "O2TV Sport2",
+    "logo_url": "o2tv_sport2.png",
+    "lang_code": "CZ",
+    "category": "České",
+    "providers": []
+  },
+  {
+    "id": "15408",
+    "name": "Poslanecká sněmovna ČR",
+    "logo_url": "pspcz.png",
+    "lang_code": "CZ",
+    "category": "České",
+    "providers": []
+  },
+  {
+    "id": "15410",
+    "name": "ÚTV",
+    "logo_url": "utv.png",
+    "lang_code": "CZ",
+    "category": "České",
+    "providers": []
+  },
+  {
+    "id": "15412",
+    "name": "Canal+ Sport",
+    "logo_url": "canalplussport.png",
+    "lang_code": "CZ",
+    "category": "České",
+    "providers": [
+      "Skylink SK"
+    ]
+  },
+  {
+    "id": "15474",
+    "name": "Noe+",
+    "logo_url": "noeplus.png",
+    "lang_code": "CZ",
+    "category": "České",
+    "providers": []
+  },
+  {
+    "id": "15476",
+    "name": "Canal+ Action",
+    "logo_url": "canal_action.png",
+    "lang_code": "CZ",
+    "category": "České",
+    "providers": []
+  },
+  {
+    "id": "15480",
+    "name": "Premier Sport 1",
+    "logo_url": "premiersport.png",
+    "lang_code": "CZ",
+    "category": "České",
+    "providers": []
+  },
+  {
+    "id": "15505",
+    "name": "Story4 (cz)",
+    "logo_url": "story4.png",
+    "lang_code": "CZ",
+    "category": "České",
+    "providers": []
+  },
+  {
+    "id": "15510",
+    "name": "BBC Earth (cz)",
+    "logo_url": "bbcearth.png",
+    "lang_code": "CZ",
+    "category": "České",
+    "providers": []
+  },
+  {
+    "id": "15521",
+    "name": "Premier Sport 3",
+    "logo_url": "premiersport3.png",
+    "lang_code": "CZ",
+    "category": "České",
+    "providers": []
+  },
+  {
+    "id": "15535",
+    "name": "Nova Sport 5",
+    "logo_url": "nova_sport_5.png",
+    "lang_code": "CZ",
+    "category": "České",
+    "providers": []
+  },
+  {
+    "id": "15536",
+    "name": "Nova Sport 6",
+    "logo_url": "nova_sport_6.png",
+    "lang_code": "CZ",
+    "category": "České",
+    "providers": []
+  },
+  {
+    "id": "15537",
+    "name": "Canal+ Sport 2",
+    "logo_url": "canalplussport2.png",
+    "lang_code": "CZ",
+    "category": "České",
+    "providers": []
+  },
+  {
+    "id": "15549",
+    "name": "Sporty TV",
+    "logo_url": "sporty.png",
+    "lang_code": "CZ",
+    "category": "České",
+    "providers": []
+  },
+  {
+    "id": "15551",
+    "name": "Warner TV",
+    "logo_url": "warnertv.png",
+    "lang_code": "CZ",
+    "category": "České",
+    "providers": []
+  },
+  {
+    "id": "1455",
+    "name": "Nova +1",
+    "logo_url": "novaplus1.png",
+    "lang_code": "CZ",
+    "category": "České",
+    "providers": []
+  },
+  {
+    "id": "15560",
+    "name": "Travelxp 4K",
+    "logo_url": "travelxp4k.png",
+    "lang_code": "CZ",
+    "category": "České",
+    "providers": []
+  },
+  {
+    "id": "15564",
+    "name": "DVTV Extra",
+    "logo_url": "dvtvextra.png",
+    "lang_code": "CZ",
+    "category": "České",
+    "providers": []
+  },
+  {
+    "id": "15565",
+    "name": "BBC First",
+    "logo_url": "bbcfirst.png",
+    "lang_code": "CZ",
+    "category": "České",
+    "providers": []
+  },
+  {
+    "id": "15573",
+    "name": "Strike TV",
+    "logo_url": "strike.png",
+    "lang_code": "CZ",
+    "category": "České",
+    "providers": []
+  },
+  {
+    "id": "165",
+    "name": "E! Entertainment",
+    "logo_url": "E.png",
+    "lang_code": "CZ",
+    "category": "České",
+    "providers": []
+  },
+  {
+    "id": "15588",
+    "name": "Starmax Comedy",
+    "logo_url": "starmaxcomedy.png",
+    "lang_code": "CZ",
+    "category": "České",
+    "providers": []
+  },
+  {
+    "id": "15603",
+    "name": "Canal+ Sport 3",
+    "logo_url": "canalplussport3.png",
+    "lang_code": "CZ",
+    "category": "České",
+    "providers": []
+  },
+  {
+    "id": "15604",
+    "name": "Canal+ Sport 4",
+    "logo_url": "canalplussport4.png",
+    "lang_code": "CZ",
+    "category": "České",
+    "providers": []
+  },
+  {
+    "id": "15605",
+    "name": "Canal+ Sport 5",
+    "logo_url": "canalplussport5.png",
+    "lang_code": "CZ",
+    "category": "České",
+    "providers": []
+  },
+  {
+    "id": "15606",
+    "name": "Canal+ Sport 6",
+    "logo_url": "canalplussport6.png",
+    "lang_code": "CZ",
+    "category": "České",
+    "providers": []
+  },
+  {
+    "id": "15607",
+    "name": "Canal+ Sport 7",
+    "logo_url": "canalplussport7.png",
+    "lang_code": "CZ",
+    "category": "České",
+    "providers": []
+  },
+  {
+    "id": "15608",
+    "name": "Canal+ Sport 8",
+    "logo_url": "canalplussport8.png",
+    "lang_code": "CZ",
+    "category": "České",
+    "providers": []
+  },
+  {
+    "id": "15618",
+    "name": "Oneplay Sport 1",
+    "logo_url": "oneplay_sport1.png",
+    "lang_code": "CZ",
+    "category": "České",
+    "providers": []
+  },
+  {
+    "id": "15619",
+    "name": "Oneplay Sport 2",
+    "logo_url": "oneplay_sport2.png",
+    "lang_code": "CZ",
+    "category": "České",
+    "providers": []
+  },
+  {
+    "id": "15620",
+    "name": "Oneplay Sport 3",
+    "logo_url": "oneplay_sport3.png",
+    "lang_code": "CZ",
+    "category": "České",
+    "providers": []
+  },
+  {
+    "id": "15621",
+    "name": "Oneplay Sport 4",
+    "logo_url": "oneplay_sport4.png",
+    "lang_code": "CZ",
+    "category": "České",
+    "providers": []
+  },
+  {
+    "id": "15622",
+    "name": "Oneplay Sport MD1",
+    "logo_url": "oneplay_sport_md.png",
+    "lang_code": "CZ",
+    "category": "České",
+    "providers": []
+  },
+  {
+    "id": "15623",
+    "name": "Oneplay Sport MD2",
+    "logo_url": "oneplay_sport_md.png",
+    "lang_code": "CZ",
+    "category": "České",
+    "providers": []
+  },
+  {
+    "id": "15624",
+    "name": "Oneplay Sport MD3",
+    "logo_url": "oneplay_sport_md.png",
+    "lang_code": "CZ",
+    "category": "České",
+    "providers": []
+  },
+  {
+    "id": "15625",
+    "name": "Oneplay Sport MD4",
+    "logo_url": "oneplay_sport_md.png",
+    "lang_code": "CZ",
+    "category": "České",
+    "providers": []
+  },
+  {
+    "id": "15626",
+    "name": "Oneplay Sport MD5",
+    "logo_url": "oneplay_sport_md.png",
+    "lang_code": "CZ",
+    "category": "České",
+    "providers": []
+  },
+  {
+    "id": "15627",
+    "name": "Oneplay Sport MD6",
+    "logo_url": "oneplay_sport_md.png",
+    "lang_code": "CZ",
+    "category": "České",
+    "providers": []
+  },
+  {
+    "id": "15628",
+    "name": "Oneplay Sport MD7",
+    "logo_url": "oneplay_sport_md.png",
+    "lang_code": "CZ",
+    "category": "České",
+    "providers": []
+  },
+  {
+    "id": "15629",
+    "name": "Oneplay Sport MD8",
+    "logo_url": "oneplay_sport_md.png",
+    "lang_code": "CZ",
+    "category": "České",
+    "providers": []
+  },
+  {
+    "id": "15630",
+    "name": "Oneplay Sport MD9",
+    "logo_url": "oneplay_sport_md.png",
+    "lang_code": "CZ",
+    "category": "České",
+    "providers": []
+  },
+  {
+    "id": "15631",
+    "name": "Televize Přerov",
+    "logo_url": "tvprerov.png",
+    "lang_code": "CZ",
+    "category": "České",
+    "providers": []
+  },
+  {
+    "id": "15640",
+    "name": "Viasat True Crime",
+    "logo_url": "viasatruecrime.png",
+    "lang_code": "CZ",
+    "category": "České",
+    "providers": []
+  },
+  {
+    "id": "15645",
+    "name": "Poslanecká sněmovna tiskovky",
+    "logo_url": "pspcz.png",
+    "lang_code": "CZ",
+    "category": "České",
+    "providers": []
+  },
+  {
+    "id": "15646",
+    "name": "Starmax Family",
+    "logo_url": "starmaxfamily.png",
+    "lang_code": "CZ",
+    "category": "České",
+    "providers": []
+  },
+  {
+    "id": "15647",
+    "name": "Starmax CZ-SK",
+    "logo_url": "starmaxczsk.png",
+    "lang_code": "CZ",
+    "category": "České",
+    "providers": []
+  },
+  {
+    "id": "15649",
+    "name": "KVIFF.TV",
+    "logo_url": "kvifftv.png",
+    "lang_code": "CZ",
+    "category": "České",
+    "providers": []
+  },
+  {
+    "id": "15653",
+    "name": "ROMA TV",
+    "logo_url": "romatv.png",
+    "lang_code": "CZ",
+    "category": "České",
+    "providers": []
+  },
+  {
+    "id": "15654",
+    "name": "JOJ Svět (cz)",
+    "logo_url": "joj_svetcz.png",
+    "lang_code": "CZ",
+    "category": "České",
+    "providers": []
+  },
+  {
+    "id": "15663",
+    "name": "Ballcasterz",
+    "logo_url": "ballcasterz.png",
+    "lang_code": "CZ",
+    "category": "České",
+    "providers": []
+  },
+  {
+    "id": "687",
+    "name": "Arena Sport 1",
+    "logo_url": "arenasport.png",
+    "lang_code": "SK",
+    "category": "Slovenské",
+    "providers": [
+      "Skylink",
+      "Skylink SK"
+    ]
+  },
+  {
+    "id": "800",
+    "name": "Arena Sport 2",
+    "logo_url": "arenasport2.png",
+    "lang_code": "SK",
+    "category": "Slovenské",
+    "providers": []
+  },
+  {
+    "id": "150",
+    "name": "duck.tv",
+    "logo_url": "ducktv.png",
+    "lang_code": "SK",
+    "category": "Slovenské",
+    "providers": [
+      "O2",
+      "Skylink",
+      "Skylink SK"
+    ]
+  },
+  {
+    "id": "222",
+    "name": "ducktv",
+    "logo_url": "ducktv.png",
+    "lang_code": "SK",
+    "category": "Slovenské",
+    "providers": []
+  },
+  {
+    "id": "524",
+    "name": "CETV",
+    "logo_url": "cetv.png",
+    "lang_code": "SK",
+    "category": "Slovenské",
+    "providers": []
+  },
+  {
+    "id": "225",
+    "name": "Doma",
+    "logo_url": "doma.png",
+    "lang_code": "SK",
+    "category": "Slovenské",
+    "providers": [
+      "Skylink",
+      "Skylink SK"
+    ]
+  },
+  {
+    "id": "33",
+    "name": "JOJ",
+    "logo_url": "JOJ.png",
+    "lang_code": "SK",
+    "category": "Slovenské",
+    "providers": [
+      "O2",
+      "Skylink SK"
+    ]
+  },
+  {
+    "id": "206",
+    "name": "JOJ Plus",
+    "logo_url": "joj_plus.png",
+    "lang_code": "SK",
+    "category": "Slovenské",
+    "providers": [
+      "O2",
+      "Skylink",
+      "Skylink SK"
+    ]
+  },
+  {
+    "id": "1013",
+    "name": "TV9 KTV",
+    "logo_url": "tv9.png",
+    "lang_code": "SK",
+    "category": "Slovenské",
+    "providers": []
+  },
+  {
+    "id": "142",
+    "name": "Liptov",
+    "logo_url": "liptov.png",
+    "lang_code": "SK",
+    "category": "Slovenské",
+    "providers": []
+  },
+  {
+    "id": "191",
+    "name": "Lux",
+    "logo_url": "lux.png",
+    "lang_code": "SK",
+    "category": "Slovenské",
+    "providers": [
+      "Skylink",
+      "Skylink SK"
+    ]
+  },
+  {
+    "id": "8",
+    "name": "Markíza",
+    "logo_url": "markiza.png",
+    "lang_code": "SK",
+    "category": "Slovenské",
+    "providers": [
+      "O2",
+      "Skylink",
+      "Skylink SK"
+    ]
+  },
+  {
+    "id": "1124",
+    "name": "Markíza International",
+    "logo_url": "markiza_international.png",
+    "lang_code": "SK",
+    "category": "Slovenské",
+    "providers": [
+      "O2",
+      "Skylink",
+      "Skylink SK"
+    ]
+  },
+  {
+    "id": "1127",
+    "name": "Rádio Vlna",
+    "logo_url": "vlna.png",
+    "lang_code": "SK",
+    "category": "Slovenské",
+    "providers": [
+      "Skylink",
+      "Skylink SK"
+    ]
+  },
+  {
+    "id": "999",
+    "name": "Jojko",
+    "logo_url": "jojko.png",
+    "lang_code": "SK",
+    "category": "Slovenské",
+    "providers": [
+      "Skylink",
+      "Skylink SK"
+    ]
+  },
+  {
+    "id": "833",
+    "name": "SENZI",
+    "logo_url": "senzi.png",
+    "lang_code": "SK",
+    "category": "Slovenské",
+    "providers": [
+      "Skylink",
+      "Skylink SK"
+    ]
+  },
+  {
+    "id": "10",
+    "name": "Jednotka",
+    "logo_url": "STV1.png",
+    "lang_code": "SK",
+    "category": "Slovenské",
+    "providers": [
+      "O2",
+      "Skylink",
+      "Skylink SK"
+    ]
+  },
+  {
+    "id": "11",
+    "name": "Dvojka",
+    "logo_url": "STV2.png",
+    "lang_code": "SK",
+    "category": "Slovenské",
+    "providers": [
+      "Skylink",
+      "Skylink SK"
+    ]
+  },
+  {
+    "id": "42",
+    "name": "TA3",
+    "logo_url": "ta3.png",
+    "lang_code": "SK",
+    "category": "Slovenské",
+    "providers": [
+      "O2",
+      "Skylink",
+      "Skylink SK"
+    ]
+  },
+  {
+    "id": "1021",
+    "name": "Ťuki",
+    "logo_url": "tuki.png",
+    "lang_code": "SK",
+    "category": "Slovenské",
+    "providers": []
+  },
+  {
+    "id": "241",
+    "name": "TV OSEM",
+    "logo_url": "tv8.png",
+    "lang_code": "SK",
+    "category": "Slovenské",
+    "providers": [
+      "O2",
+      "Skylink",
+      "Skylink SK"
+    ]
+  },
+  {
+    "id": "735",
+    "name": "TV Bratislava",
+    "logo_url": "tvba.png",
+    "lang_code": "SK",
+    "category": "Slovenské",
+    "providers": []
+  },
+  {
+    "id": "683",
+    "name": "TV DAJTO",
+    "logo_url": "dajto.png",
+    "lang_code": "SK",
+    "category": "Slovenské",
+    "providers": [
+      "Skylink",
+      "Skylink SK"
+    ]
+  },
+  {
+    "id": "718",
+    "name": "JOJ KRIMI",
+    "logo_url": "wau.png",
+    "lang_code": "SK",
+    "category": "Slovenské",
+    "providers": [
+      "Skylink",
+      "Skylink SK"
+    ]
+  },
+  {
+    "id": "1143",
+    "name": "Spartak TV",
+    "logo_url": "spartak.png",
+    "lang_code": "SK",
+    "category": "Slovenské",
+    "providers": []
+  },
+  {
+    "id": "1146",
+    "name": "LifeTV",
+    "logo_url": "lifetv.png",
+    "lang_code": "SK",
+    "category": "Slovenské",
+    "providers": []
+  },
+  {
+    "id": "1162",
+    "name": "Prima SK",
+    "logo_url": "prima_plus.png",
+    "lang_code": "SK",
+    "category": "Slovenské",
+    "providers": [
+      "Skylink",
+      "Skylink SK"
+    ]
+  },
+  {
+    "id": "1164",
+    "name": "Severka",
+    "logo_url": "severka.png",
+    "lang_code": "SK",
+    "category": "Slovenské",
+    "providers": []
+  },
+  {
+    "id": "1165",
+    "name": "Vega",
+    "logo_url": "vega.png",
+    "lang_code": "SK",
+    "category": "Slovenské",
+    "providers": []
+  },
+  {
+    "id": "1173",
+    "name": "TV Považie",
+    "logo_url": "povazie.png",
+    "lang_code": "SK",
+    "category": "Slovenské",
+    "providers": []
+  },
+  {
+    "id": "1174",
+    "name": "TV RAJ",
+    "logo_url": "tv_raj.png",
+    "lang_code": "SK",
+    "category": "Slovenské",
+    "providers": []
+  },
+  {
+    "id": "1185",
+    "name": "JOJ +1",
+    "logo_url": "jojplus1.png",
+    "lang_code": "SK",
+    "category": "Slovenské",
+    "providers": []
+  },
+  {
+    "id": "1193",
+    "name": "Městská televize Trnava",
+    "logo_url": "mtt.png",
+    "lang_code": "SK",
+    "category": "Slovenské",
+    "providers": []
+  },
+  {
+    "id": "1194",
+    "name": "TV7",
+    "logo_url": "tv7.png",
+    "lang_code": "SK",
+    "category": "Slovenské",
+    "providers": []
+  },
+  {
+    "id": "1211",
+    "name": "KOŠICE:DNES",
+    "logo_url": "kosicednes.png",
+    "lang_code": "SK",
+    "category": "Slovenské",
+    "providers": []
+  },
+  {
+    "id": "1239",
+    "name": "Mestská televízia Ružomberok",
+    "logo_url": "ruzomberok.png",
+    "lang_code": "SK",
+    "category": "Slovenské",
+    "providers": []
+  },
+  {
+    "id": "1240",
+    "name": "TV Levoča",
+    "logo_url": "levoca.png",
+    "lang_code": "SK",
+    "category": "Slovenské",
+    "providers": []
+  },
+  {
+    "id": "1305",
+    "name": "Orange Sport HD",
+    "logo_url": "orangesport.png",
+    "lang_code": "SK",
+    "category": "Slovenské",
+    "providers": []
+  },
+  {
+    "id": "1306",
+    "name": "Orange Sport 2 HD",
+    "logo_url": "orangesport2.png",
+    "lang_code": "SK",
+    "category": "Slovenské",
+    "providers": []
+  },
+  {
+    "id": "1307",
+    "name": "Orange Sport 3 HD",
+    "logo_url": "orangesport3.png",
+    "lang_code": "SK",
+    "category": "Slovenské",
+    "providers": []
+  },
+  {
+    "id": "1308",
+    "name": "Orange Sport 4 HD",
+    "logo_url": "orangesport4.png",
+    "lang_code": "SK",
+    "category": "Slovenské",
+    "providers": []
+  },
+  {
+    "id": "1309",
+    "name": "Folklorika",
+    "logo_url": "folklorika.png",
+    "lang_code": "SK",
+    "category": "Slovenské",
+    "providers": []
+  },
+  {
+    "id": "1310",
+    "name": "Senior",
+    "logo_url": "tvsenior.png",
+    "lang_code": "SK",
+    "category": "Slovenské",
+    "providers": []
+  },
+  {
+    "id": "1125",
+    "name": "Nova International",
+    "logo_url": "nova_international.png",
+    "lang_code": "SK",
+    "category": "Slovenské",
+    "providers": [
+      "Skylink",
+      "Skylink SK"
+    ]
+  },
+  {
+    "id": "1323",
+    "name": "ducktv plus",
+    "logo_url": "ducktvplus.png",
+    "lang_code": "SK",
+    "category": "Slovenské",
+    "providers": []
+  },
+  {
+    "id": "1335",
+    "name": "Markíza +1",
+    "logo_url": "markizaplus1.png",
+    "lang_code": "SK",
+    "category": "Slovenské",
+    "providers": []
+  },
+  {
+    "id": "15291",
+    "name": "JOJ Šport",
+    "logo_url": "joj_sport.png",
+    "lang_code": "SK",
+    "category": "Slovenské",
+    "providers": [
+      "Skylink SK"
+    ]
+  },
+  {
+    "id": "15587",
+    "name": "Prima LOVE SK",
+    "logo_url": "primalovesk.png",
+    "lang_code": "SK",
+    "category": "Slovenské",
+    "providers": []
+  },
+  {
+    "id": "1253",
+    "name": "TV Ružinov",
+    "logo_url": "ruzinov.png",
+    "lang_code": "SK",
+    "category": "Slovenské",
+    "providers": []
+  },
+  {
+    "id": "1315",
+    "name": "Zemplín",
+    "logo_url": "zemplin.png",
+    "lang_code": "SK",
+    "category": "Slovenské",
+    "providers": []
+  },
+  {
+    "id": "1324",
+    "name": "STVR 24",
+    "logo_url": "rtvs24.png",
+    "lang_code": "SK",
+    "category": "Slovenské",
+    "providers": [
+      "Skylink SK"
+    ]
+  },
+  {
+    "id": "1326",
+    "name": "Romana",
+    "logo_url": "romana.png",
+    "lang_code": "SK",
+    "category": "Slovenské",
+    "providers": []
+  },
+  {
+    "id": "1363",
+    "name": "HaHa TV",
+    "logo_url": "hahatv.png",
+    "lang_code": "SK",
+    "category": "Slovenské",
+    "providers": []
+  },
+  {
+    "id": "1364",
+    "name": "Televízia Východ",
+    "logo_url": "tvvychod.png",
+    "lang_code": "SK",
+    "category": "Slovenské",
+    "providers": []
+  },
+  {
+    "id": "1408",
+    "name": "Rik TV",
+    "logo_url": "rik.png",
+    "lang_code": "SK",
+    "category": "Slovenské",
+    "providers": []
+  },
+  {
+    "id": "1472",
+    "name": "Body in Balance (sk)",
+    "logo_url": "bib.png",
+    "lang_code": "SK",
+    "category": "Slovenské",
+    "providers": []
+  },
+  {
+    "id": "1512",
+    "name": "STVR Šport",
+    "logo_url": "rtvs_sport.png",
+    "lang_code": "SK",
+    "category": "Slovenské",
+    "providers": [
+      "Skylink SK"
+    ]
+  },
+  {
+    "id": "1514",
+    "name": "Arcadia",
+    "logo_url": "arcadia.png",
+    "lang_code": "SK",
+    "category": "Slovenské",
+    "providers": []
+  },
+  {
+    "id": "15321",
+    "name": "TV SEN",
+    "logo_url": "tvsen.png",
+    "lang_code": "SK",
+    "category": "Slovenské",
+    "providers": []
+  },
+  {
+    "id": "15402",
+    "name": "Markíza KRIMI",
+    "logo_url": "markiza_krimi.png",
+    "lang_code": "SK",
+    "category": "Slovenské",
+    "providers": [
+      "Skylink SK"
+    ]
+  },
+  {
+    "id": "15403",
+    "name": "volant.tv",
+    "logo_url": "volanttv.png",
+    "lang_code": "SK",
+    "category": "Slovenské",
+    "providers": []
+  },
+  {
+    "id": "15409",
+    "name": "Západoslovenská televízia",
+    "logo_url": "zapadoslovenskatv.png",
+    "lang_code": "SK",
+    "category": "Slovenské",
+    "providers": []
+  },
+  {
+    "id": "15426",
+    "name": "RTV PD",
+    "logo_url": "rtvpd.png",
+    "lang_code": "SK",
+    "category": "Slovenské",
+    "providers": []
+  },
+  {
+    "id": "15427",
+    "name": "Šuriansky spravodaj",
+    "logo_url": "surianskyspravodaj.png",
+    "lang_code": "SK",
+    "category": "Slovenské",
+    "providers": []
+  },
+  {
+    "id": "15428",
+    "name": "TDT",
+    "logo_url": "tdt.png",
+    "lang_code": "SK",
+    "category": "Slovenské",
+    "providers": []
+  },
+  {
+    "id": "15429",
+    "name": "Televízia Dolný Kubín",
+    "logo_url": "dolnykubin.png",
+    "lang_code": "SK",
+    "category": "Slovenské",
+    "providers": []
+  },
+  {
+    "id": "15430",
+    "name": "Rimava",
+    "logo_url": "rimava.png",
+    "lang_code": "SK",
+    "category": "Slovenské",
+    "providers": []
+  },
+  {
+    "id": "15431",
+    "name": "Florena",
+    "logo_url": "florena.png",
+    "lang_code": "SK",
+    "category": "Slovenské",
+    "providers": []
+  },
+  {
+    "id": "15440",
+    "name": "Turbo TV",
+    "logo_url": "turbotv.png",
+    "lang_code": "SK",
+    "category": "Slovenské",
+    "providers": []
+  },
+  {
+    "id": "15441",
+    "name": "JOJ 24",
+    "logo_url": "joj_24.png",
+    "lang_code": "SK",
+    "category": "Slovenské",
+    "providers": [
+      "Skylink SK"
+    ]
+  },
+  {
+    "id": "15450",
+    "name": "TV Hronka",
+    "logo_url": "hronka.png",
+    "lang_code": "SK",
+    "category": "Slovenské",
+    "providers": []
+  },
+  {
+    "id": "15471",
+    "name": "Skvelé TV",
+    "logo_url": "skvele.png",
+    "lang_code": "SK",
+    "category": "Slovenské",
+    "providers": []
+  },
+  {
+    "id": "15472",
+    "name": "Park TV",
+    "logo_url": "park.png",
+    "lang_code": "SK",
+    "category": "Slovenské",
+    "providers": []
+  },
+  {
+    "id": "15482",
+    "name": "Kanal 1",
+    "logo_url": "spark.png",
+    "lang_code": "SK",
+    "category": "Slovenské",
+    "providers": []
+  },
+  {
+    "id": "15508",
+    "name": "TV Doktor",
+    "logo_url": "tvdoktor.png",
+    "lang_code": "SK",
+    "category": "Slovenské",
+    "providers": []
+  },
+  {
+    "id": "15509",
+    "name": "JOJ Svet",
+    "logo_url": "joj_svet.png",
+    "lang_code": "SK",
+    "category": "Slovenské",
+    "providers": []
+  },
+  {
+    "id": "15562",
+    "name": "Prima COOL SK",
+    "logo_url": "prima_coolsk.png",
+    "lang_code": "SK",
+    "category": "Slovenské",
+    "providers": []
+  },
+  {
+    "id": "15568",
+    "name": "Markíza KLASIK",
+    "logo_url": "markiza_klasik.png",
+    "lang_code": "SK",
+    "category": "Slovenské",
+    "providers": []
+  },
+  {
+    "id": "15611",
+    "name": "JOJ Šport 2",
+    "logo_url": "joj_sport2.png",
+    "lang_code": "SK",
+    "category": "Slovenské",
+    "providers": []
+  },
+  {
+    "id": "15614",
+    "name": "DVTV Extra SK",
+    "logo_url": "dvtvextra.png",
+    "lang_code": "SK",
+    "category": "Slovenské",
+    "providers": []
+  },
+  {
+    "id": "15633",
+    "name": "TV Kežmarok",
+    "logo_url": "kezmarok.png",
+    "lang_code": "SK",
+    "category": "Slovenské",
+    "providers": []
+  },
+  {
+    "id": "15644",
+    "name": "GTTV",
+    "logo_url": "gttvmoto.png",
+    "lang_code": "SK",
+    "category": "Slovenské",
+    "providers": []
+  },
+  {
+    "id": "15648",
+    "name": "Prima KRIMI SK",
+    "logo_url": "primakrimisk.png",
+    "lang_code": "SK",
+    "category": "Slovenské",
+    "providers": []
+  },
+  {
+    "id": "15651",
+    "name": "TV NR SR",
+    "logo_url": "nrsr.png",
+    "lang_code": "SK",
+    "category": "Slovenské",
+    "providers": []
+  },
+  {
+    "id": "15652",
+    "name": "Šírava TV",
+    "logo_url": "sirava.png",
+    "lang_code": "SK",
+    "category": "Slovenské",
+    "providers": []
+  },
+  {
+    "id": "842",
+    "name": "Cartoon Network (pl)",
+    "logo_url": "CNT.png",
+    "lang_code": "PL",
+    "category": "Polské",
+    "providers": []
+  },
+  {
+    "id": "691",
+    "name": "Eska TV",
+    "logo_url": "eskatv.png",
+    "lang_code": "PL",
+    "category": "Polské",
+    "providers": []
+  },
+  {
+    "id": "692",
+    "name": "Kino Polska",
+    "logo_url": "kinopolska.png",
+    "lang_code": "PL",
+    "category": "Polské",
+    "providers": []
+  },
+  {
+    "id": "843",
+    "name": "ONTV",
+    "logo_url": "ontv.png",
+    "lang_code": "PL",
+    "category": "Polské",
+    "providers": []
+  },
+  {
+    "id": "34",
+    "name": "Polsat",
+    "logo_url": "polsat.png",
+    "lang_code": "PL",
+    "category": "Polské",
+    "providers": []
+  },
+  {
+    "id": "124",
+    "name": "Polsat 2",
+    "logo_url": "polsat2.png",
+    "lang_code": "PL",
+    "category": "Polské",
+    "providers": []
+  },
+  {
+    "id": "14",
+    "name": "Polonia",
+    "logo_url": "polonia.png",
+    "lang_code": "PL",
+    "category": "Polské",
+    "providers": [
+      "O2"
+    ]
+  },
+  {
+    "id": "693",
+    "name": "Polsat Café",
+    "logo_url": "polsatcafe.png",
+    "lang_code": "PL",
+    "category": "Polské",
+    "providers": []
+  },
+  {
+    "id": "694",
+    "name": "Polsat News",
+    "logo_url": "polsatnews.png",
+    "lang_code": "PL",
+    "category": "Polské",
+    "providers": []
+  },
+  {
+    "id": "695",
+    "name": "Polsat Play",
+    "logo_url": "polsatplay.png",
+    "lang_code": "PL",
+    "category": "Polské",
+    "providers": []
+  },
+  {
+    "id": "869",
+    "name": "Polsat Romans",
+    "logo_url": "romans.png",
+    "lang_code": "PL",
+    "category": "Polské",
+    "providers": []
+  },
+  {
+    "id": "696",
+    "name": "Polsat Film",
+    "logo_url": "polsatfilm.png",
+    "lang_code": "PL",
+    "category": "Polské",
+    "providers": []
+  },
+  {
+    "id": "697",
+    "name": "Polsat Sport",
+    "logo_url": "polsatsport.png",
+    "lang_code": "PL",
+    "category": "Polské",
+    "providers": []
+  },
+  {
+    "id": "698",
+    "name": "Polsat Sport Extra",
+    "logo_url": "polsatsportextra.png",
+    "lang_code": "PL",
+    "category": "Polské",
+    "providers": []
+  },
+  {
+    "id": "565",
+    "name": "Polsat Sport News",
+    "logo_url": "polsatsportnews.png",
+    "lang_code": "PL",
+    "category": "Polské",
+    "providers": []
+  },
+  {
+    "id": "688",
+    "name": "Puls 2",
+    "logo_url": "puls2.png",
+    "lang_code": "PL",
+    "category": "Polské",
+    "providers": []
+  },
+  {
+    "id": "700",
+    "name": "Tele5",
+    "logo_url": "tele5.png",
+    "lang_code": "PL",
+    "category": "Polské",
+    "providers": []
+  },
+  {
+    "id": "50",
+    "name": "TVN",
+    "logo_url": "TVN.png",
+    "lang_code": "PL",
+    "category": "Polské",
+    "providers": []
+  },
+  {
+    "id": "48",
+    "name": "TVN7",
+    "logo_url": "TVN7.png",
+    "lang_code": "PL",
+    "category": "Polské",
+    "providers": []
+  },
+  {
+    "id": "12",
+    "name": "TVP1",
+    "logo_url": "TVP1.png",
+    "lang_code": "PL",
+    "category": "Polské",
+    "providers": []
+  },
+  {
+    "id": "13",
+    "name": "TVP2",
+    "logo_url": "TVP2.png",
+    "lang_code": "PL",
+    "category": "Polské",
+    "providers": []
+  },
+  {
+    "id": "196",
+    "name": "TVP Info",
+    "logo_url": "tvpinfo.png",
+    "lang_code": "PL",
+    "category": "Polské",
+    "providers": []
+  },
+  {
+    "id": "98",
+    "name": "TVP Sport",
+    "logo_url": "tvpsport.png",
+    "lang_code": "PL",
+    "category": "Polské",
+    "providers": []
+  },
+  {
+    "id": "99",
+    "name": "TVP Kultura",
+    "logo_url": "tvpkultura.png",
+    "lang_code": "PL",
+    "category": "Polské",
+    "providers": []
+  },
+  {
+    "id": "100",
+    "name": "TVP Historia",
+    "logo_url": "tvphist.png",
+    "lang_code": "PL",
+    "category": "Polské",
+    "providers": []
+  },
+  {
+    "id": "546",
+    "name": "TV4",
+    "logo_url": "tv4.png",
+    "lang_code": "PL",
+    "category": "Polské",
+    "providers": [
+      "Skylink SK"
+    ]
+  },
+  {
+    "id": "566",
+    "name": "TV6",
+    "logo_url": "tv6.png",
+    "lang_code": "PL",
+    "category": "Polské",
+    "providers": []
+  },
+  {
+    "id": "547",
+    "name": "TV Puls",
+    "logo_url": "puls.png",
+    "lang_code": "PL",
+    "category": "Polské",
+    "providers": []
+  },
+  {
+    "id": "629",
+    "name": "TVP Seriale",
+    "logo_url": "tvpseriale.png",
+    "lang_code": "PL",
+    "category": "Polské",
+    "providers": []
+  },
+  {
+    "id": "630",
+    "name": "TVP3 Warszawa",
+    "logo_url": "tvp3_warszawa.png",
+    "lang_code": "PL",
+    "category": "Polské",
+    "providers": []
+  },
+  {
+    "id": "631",
+    "name": "TVP HD",
+    "logo_url": "tvphd.png",
+    "lang_code": "PL",
+    "category": "Polské",
+    "providers": []
+  },
+  {
+    "id": "632",
+    "name": "TV Bialorus",
+    "logo_url": "tvbialorus.png",
+    "lang_code": "PL",
+    "category": "Polské",
+    "providers": []
+  },
+  {
+    "id": "834",
+    "name": "TVP Rozrywka",
+    "logo_url": "tvprozrywka.png",
+    "lang_code": "PL",
+    "category": "Polské",
+    "providers": []
+  },
+  {
+    "id": "844",
+    "name": "TVS",
+    "logo_url": "tvs.png",
+    "lang_code": "PL",
+    "category": "Polské",
+    "providers": []
+  },
+  {
+    "id": "1139",
+    "name": "TVP3",
+    "logo_url": "TVP3.png",
+    "lang_code": "PL",
+    "category": "Polské",
+    "providers": []
+  },
+  {
+    "id": "1168",
+    "name": "Polsat 1",
+    "logo_url": "polsat1.png",
+    "lang_code": "PL",
+    "category": "Polské",
+    "providers": []
+  },
+  {
+    "id": "1172",
+    "name": "Super Polsat",
+    "logo_url": "superpolsat.png",
+    "lang_code": "PL",
+    "category": "Polské",
+    "providers": []
+  },
+  {
+    "id": "1224",
+    "name": "Polsat News 2",
+    "logo_url": "polsatnews2.png",
+    "lang_code": "PL",
+    "category": "Polské",
+    "providers": []
+  },
+  {
+    "id": "1225",
+    "name": "TBN Polska",
+    "logo_url": "tbn.png",
+    "lang_code": "PL",
+    "category": "Polské",
+    "providers": []
+  },
+  {
+    "id": "1226",
+    "name": "TVN24",
+    "logo_url": "tvn24.png",
+    "lang_code": "PL",
+    "category": "Polské",
+    "providers": []
+  },
+  {
+    "id": "1243",
+    "name": "TVN Turbo",
+    "logo_url": "tvnturbo.png",
+    "lang_code": "PL",
+    "category": "Polské",
+    "providers": []
+  },
+  {
+    "id": "1254",
+    "name": "TVP ABC",
+    "logo_url": "tvpabc.png",
+    "lang_code": "PL",
+    "category": "Polské",
+    "providers": []
+  },
+  {
+    "id": "1255",
+    "name": "TTV",
+    "logo_url": "ttv.png",
+    "lang_code": "PL",
+    "category": "Polské",
+    "providers": []
+  },
+  {
+    "id": "1257",
+    "name": "Polo TV",
+    "logo_url": "polotv.png",
+    "lang_code": "PL",
+    "category": "Polské",
+    "providers": []
+  },
+  {
+    "id": "1258",
+    "name": "TV Trwam",
+    "logo_url": "tvtrwam.png",
+    "lang_code": "PL",
+    "category": "Polské",
+    "providers": []
+  },
+  {
+    "id": "1259",
+    "name": "Stopklatka TV",
+    "logo_url": "stopklatkatv.png",
+    "lang_code": "PL",
+    "category": "Polské",
+    "providers": []
+  },
+  {
+    "id": "1260",
+    "name": "Fokus TV",
+    "logo_url": "fokustv.png",
+    "lang_code": "PL",
+    "category": "Polské",
+    "providers": []
+  },
+  {
+    "id": "1311",
+    "name": "Show TV",
+    "logo_url": "redcarpet.png",
+    "lang_code": "PL",
+    "category": "Polské",
+    "providers": []
+  },
+  {
+    "id": "1312",
+    "name": "TVT",
+    "logo_url": "tvt.png",
+    "lang_code": "PL",
+    "category": "Polské",
+    "providers": []
+  },
+  {
+    "id": "1313",
+    "name": "Stars TV",
+    "logo_url": "starstv.png",
+    "lang_code": "PL",
+    "category": "Polské",
+    "providers": []
+  },
+  {
+    "id": "1322",
+    "name": "dlaCiebie.tv",
+    "logo_url": "dlaciebietv.png",
+    "lang_code": "PL",
+    "category": "Polské",
+    "providers": []
+  },
+  {
+    "id": "1344",
+    "name": "Nowa TV",
+    "logo_url": "nowa.png",
+    "lang_code": "PL",
+    "category": "Polské",
+    "providers": []
+  },
+  {
+    "id": "1345",
+    "name": "Eska TV Extra",
+    "logo_url": "eskatvextra.png",
+    "lang_code": "PL",
+    "category": "Polské",
+    "providers": []
+  },
+  {
+    "id": "1346",
+    "name": "Polsat Music",
+    "logo_url": "polsatmusic.png",
+    "lang_code": "PL",
+    "category": "Polské",
+    "providers": []
+  },
+  {
+    "id": "1347",
+    "name": "Eska Rock",
+    "logo_url": "eskarock.png",
+    "lang_code": "PL",
+    "category": "Polské",
+    "providers": []
+  },
+  {
+    "id": "1348",
+    "name": "Polsat Games",
+    "logo_url": "polsatgames.png",
+    "lang_code": "PL",
+    "category": "Polské",
+    "providers": []
+  },
+  {
+    "id": "1349",
+    "name": "VOX Music TV",
+    "logo_url": "voxmusic.png",
+    "lang_code": "PL",
+    "category": "Polské",
+    "providers": []
+  },
+  {
+    "id": "1350",
+    "name": "Polsat Rodzina",
+    "logo_url": "polsatrodzina.png",
+    "lang_code": "PL",
+    "category": "Polské",
+    "providers": []
+  },
+  {
+    "id": "1351",
+    "name": "Polsat Doku",
+    "logo_url": "polsatdoku.png",
+    "lang_code": "PL",
+    "category": "Polské",
+    "providers": []
+  },
+  {
+    "id": "1352",
+    "name": "Disco Polo Music",
+    "logo_url": "discopolomusic.png",
+    "lang_code": "PL",
+    "category": "Polské",
+    "providers": []
+  },
+  {
+    "id": "1353",
+    "name": "Superstacja",
+    "logo_url": "superstacja.png",
+    "lang_code": "PL",
+    "category": "Polské",
+    "providers": []
+  },
+  {
+    "id": "1354",
+    "name": "Polsat Sport Fight",
+    "logo_url": "polsatsportfight.png",
+    "lang_code": "PL",
+    "category": "Polské",
+    "providers": []
+  },
+  {
+    "id": "1355",
+    "name": "Polsat Seriale",
+    "logo_url": "polsatseriale.png",
+    "lang_code": "PL",
+    "category": "Polské",
+    "providers": []
+  },
+  {
+    "id": "1360",
+    "name": "Polonia 1",
+    "logo_url": "polonia1.png",
+    "lang_code": "PL",
+    "category": "Polské",
+    "providers": []
+  },
+  {
+    "id": "1374",
+    "name": "4Fun.TV",
+    "logo_url": "4funtv.png",
+    "lang_code": "PL",
+    "category": "Polské",
+    "providers": []
+  },
+  {
+    "id": "1375",
+    "name": "4Fun Kids",
+    "logo_url": "4funkids.png",
+    "lang_code": "PL",
+    "category": "Polské",
+    "providers": []
+  },
+  {
+    "id": "1376",
+    "name": "4Fun Dance",
+    "logo_url": "4fundance.png",
+    "lang_code": "PL",
+    "category": "Polské",
+    "providers": []
+  },
+  {
+    "id": "1378",
+    "name": "Republika",
+    "logo_url": "republika.png",
+    "lang_code": "PL",
+    "category": "Polské",
+    "providers": []
+  },
+  {
+    "id": "1379",
+    "name": "EZO TV",
+    "logo_url": "ezotv.png",
+    "lang_code": "PL",
+    "category": "Polské",
+    "providers": []
+  },
+  {
+    "id": "1388",
+    "name": "Power TV (pl)",
+    "logo_url": "powertv.png",
+    "lang_code": "PL",
+    "category": "Polské",
+    "providers": []
+  },
+  {
+    "id": "1389",
+    "name": "Adventure TV (pl)",
+    "logo_url": "adventuretv.png",
+    "lang_code": "PL",
+    "category": "Polské",
+    "providers": []
+  },
+  {
+    "id": "1390",
+    "name": "Nuta.TV",
+    "logo_url": "nutatv.png",
+    "lang_code": "PL",
+    "category": "Polské",
+    "providers": []
+  },
+  {
+    "id": "1391",
+    "name": "Top Kids (pl)",
+    "logo_url": "topkids.png",
+    "lang_code": "PL",
+    "category": "Polské",
+    "providers": []
+  },
+  {
+    "id": "1392",
+    "name": "Junior Music",
+    "logo_url": "juniormusic.png",
+    "lang_code": "PL",
+    "category": "Polské",
+    "providers": []
+  },
+  {
+    "id": "1393",
+    "name": "Biznes24",
+    "logo_url": "biznes24.png",
+    "lang_code": "PL",
+    "category": "Polské",
+    "providers": []
+  },
+  {
+    "id": "1394",
+    "name": "TVC",
+    "logo_url": "tvc.png",
+    "lang_code": "PL",
+    "category": "Polské",
+    "providers": []
+  },
+  {
+    "id": "1395",
+    "name": "Xtreme TV",
+    "logo_url": "xtremetv.png",
+    "lang_code": "PL",
+    "category": "Polské",
+    "providers": []
+  },
+  {
+    "id": "1396",
+    "name": "Home TV",
+    "logo_url": "hometv.png",
+    "lang_code": "PL",
+    "category": "Polské",
+    "providers": []
+  },
+  {
+    "id": "1397",
+    "name": "Gold TV",
+    "logo_url": "goldtv.png",
+    "lang_code": "PL",
+    "category": "Polské",
+    "providers": []
+  },
+  {
+    "id": "1398",
+    "name": "Kino TV",
+    "logo_url": "kinotv.png",
+    "lang_code": "PL",
+    "category": "Polské",
+    "providers": []
+  },
+  {
+    "id": "1399",
+    "name": "Filmbox Premium (pl)",
+    "logo_url": "filmbox-premium.png",
+    "lang_code": "PL",
+    "category": "Polské",
+    "providers": []
+  },
+  {
+    "id": "1400",
+    "name": "Filmbox Family (pl)",
+    "logo_url": "filmboxfamily.png",
+    "lang_code": "PL",
+    "category": "Polské",
+    "providers": []
+  },
+  {
+    "id": "1401",
+    "name": "Filmbox Extra HD (pl)",
+    "logo_url": "filmboxhd.png",
+    "lang_code": "PL",
+    "category": "Polské",
+    "providers": []
+  },
+  {
+    "id": "1402",
+    "name": "Filmbox Action (pl)",
+    "logo_url": "filmboxaction.png",
+    "lang_code": "PL",
+    "category": "Polské",
+    "providers": []
+  },
+  {
+    "id": "1403",
+    "name": "Water Planet",
+    "logo_url": "waterplanet.png",
+    "lang_code": "PL",
+    "category": "Polské",
+    "providers": []
+  },
+  {
+    "id": "1404",
+    "name": "Novela tv",
+    "logo_url": "novelatv.png",
+    "lang_code": "PL",
+    "category": "Polské",
+    "providers": []
+  },
+  {
+    "id": "1405",
+    "name": "wPolsce24",
+    "logo_url": "wpolscepl.png",
+    "lang_code": "PL",
+    "category": "Polské",
+    "providers": []
+  },
+  {
+    "id": "1406",
+    "name": "JAZZ HD",
+    "logo_url": "jazzhd.png",
+    "lang_code": "PL",
+    "category": "Polské",
+    "providers": []
+  },
+  {
+    "id": "1429",
+    "name": "EWTN",
+    "logo_url": "ewtn.png",
+    "lang_code": "PL",
+    "category": "Polské",
+    "providers": []
+  },
+  {
+    "id": "1440",
+    "name": "Filmax",
+    "logo_url": "filmax.png",
+    "lang_code": "PL",
+    "category": "Polské",
+    "providers": []
+  },
+  {
+    "id": "1371",
+    "name": "Zoom TV",
+    "logo_url": "zoomtv.png",
+    "lang_code": "PL",
+    "category": "Polské",
+    "providers": []
+  },
+  {
+    "id": "1407",
+    "name": "Twoja TV",
+    "logo_url": "twojatv.png",
+    "lang_code": "PL",
+    "category": "Polské",
+    "providers": []
+  },
+  {
+    "id": "1445",
+    "name": "Eurochannel (pl)",
+    "logo_url": "eurochannel.png",
+    "lang_code": "PL",
+    "category": "Polské",
+    "providers": []
+  },
+  {
+    "id": "1450",
+    "name": "Polsat Viasat Nature (pl)",
+    "logo_url": "polsatviasatnature.png",
+    "lang_code": "PL",
+    "category": "Polské",
+    "providers": []
+  },
+  {
+    "id": "1451",
+    "name": "Polsat Viasat History (pl)",
+    "logo_url": "polsatviasathistory.png",
+    "lang_code": "PL",
+    "category": "Polské",
+    "providers": []
+  },
+  {
+    "id": "1452",
+    "name": "Polsat Viasat Explore (pl)",
+    "logo_url": "polsatviasatexplore.png",
+    "lang_code": "PL",
+    "category": "Polské",
+    "providers": []
+  },
+  {
+    "id": "1453",
+    "name": "Epic Drama (pl)",
+    "logo_url": "epicdrama.png",
+    "lang_code": "PL",
+    "category": "Polské",
+    "providers": []
+  },
+  {
+    "id": "1467",
+    "name": "2x2",
+    "logo_url": "2x2.png",
+    "lang_code": "PL",
+    "category": "Polské",
+    "providers": []
+  },
+  {
+    "id": "1470",
+    "name": "Mixtape",
+    "logo_url": "mixtape.png",
+    "lang_code": "PL",
+    "category": "Polské",
+    "providers": []
+  },
+  {
+    "id": "1474",
+    "name": "Romance TV",
+    "logo_url": "romance.png",
+    "lang_code": "PL",
+    "category": "Polské",
+    "providers": []
+  },
+  {
+    "id": "1484",
+    "name": "History (pl)",
+    "logo_url": "history.png",
+    "lang_code": "PL",
+    "category": "Polské",
+    "providers": []
+  },
+  {
+    "id": "1485",
+    "name": "TVP3 Gdańsk",
+    "logo_url": "tvp3_gdansk.png",
+    "lang_code": "PL",
+    "category": "Polské",
+    "providers": []
+  },
+  {
+    "id": "1486",
+    "name": "TVP3 Szczecin",
+    "logo_url": "tvp3_szczecin.png",
+    "lang_code": "PL",
+    "category": "Polské",
+    "providers": []
+  },
+  {
+    "id": "1487",
+    "name": "TVP3 Poznań",
+    "logo_url": "tvp3_poznan.png",
+    "lang_code": "PL",
+    "category": "Polské",
+    "providers": []
+  },
+  {
+    "id": "1488",
+    "name": "TVP3 Białystok",
+    "logo_url": "tvp3_bialystok.png",
+    "lang_code": "PL",
+    "category": "Polské",
+    "providers": []
+  },
+  {
+    "id": "1489",
+    "name": "TVP3 Olsztyn",
+    "logo_url": "tvp3_olsztyn.png",
+    "lang_code": "PL",
+    "category": "Polské",
+    "providers": []
+  },
+  {
+    "id": "1490",
+    "name": "TVP3 Bydgoszcz",
+    "logo_url": "tvp3_bydgoszcz.png",
+    "lang_code": "PL",
+    "category": "Polské",
+    "providers": []
+  },
+  {
+    "id": "1491",
+    "name": "TVP3 Gorzów Wielkopolski",
+    "logo_url": "tvp3_gorzow.png",
+    "lang_code": "PL",
+    "category": "Polské",
+    "providers": []
+  },
+  {
+    "id": "1492",
+    "name": "TVP3 Lublin",
+    "logo_url": "tvp3_lublin.png",
+    "lang_code": "PL",
+    "category": "Polské",
+    "providers": []
+  },
+  {
+    "id": "1493",
+    "name": "TVP3 Rzeszów",
+    "logo_url": "tvp3_rzeszow.png",
+    "lang_code": "PL",
+    "category": "Polské",
+    "providers": []
+  },
+  {
+    "id": "1494",
+    "name": "TVP3 Wrocław",
+    "logo_url": "tvp3_wroclaw.png",
+    "lang_code": "PL",
+    "category": "Polské",
+    "providers": []
+  },
+  {
+    "id": "1495",
+    "name": "TVP3 Kraków",
+    "logo_url": "tvp3_krakow.png",
+    "lang_code": "PL",
+    "category": "Polské",
+    "providers": []
+  },
+  {
+    "id": "1496",
+    "name": "TVP3 Opole",
+    "logo_url": "tvp3_opole.png",
+    "lang_code": "PL",
+    "category": "Polské",
+    "providers": []
+  },
+  {
+    "id": "1497",
+    "name": "TVP3 Katowice",
+    "logo_url": "tvp3_katowice.png",
+    "lang_code": "PL",
+    "category": "Polské",
+    "providers": []
+  },
+  {
+    "id": "1498",
+    "name": "TVP3 Kielce",
+    "logo_url": "tvp3_kielce.png",
+    "lang_code": "PL",
+    "category": "Polské",
+    "providers": []
+  },
+  {
+    "id": "1499",
+    "name": "TVP3 Łódź",
+    "logo_url": "tvp3_lodz.png",
+    "lang_code": "PL",
+    "category": "Polské",
+    "providers": []
+  },
+  {
+    "id": "1500",
+    "name": "ViDocTV",
+    "logo_url": "redtoptv.png",
+    "lang_code": "PL",
+    "category": "Polské",
+    "providers": []
+  },
+  {
+    "id": "15308",
+    "name": "Nickelodeon (pl)",
+    "logo_url": "nickelodeon.png",
+    "lang_code": "PL",
+    "category": "Polské",
+    "providers": []
+  },
+  {
+    "id": "15309",
+    "name": "Nick Jr. (pl)",
+    "logo_url": "nickjr.png",
+    "lang_code": "PL",
+    "category": "Polské",
+    "providers": []
+  },
+  {
+    "id": "15310",
+    "name": "Nicktoons (pl)",
+    "logo_url": "nicktoons.png",
+    "lang_code": "PL",
+    "category": "Polské",
+    "providers": []
+  },
+  {
+    "id": "15311",
+    "name": "TeenNick (pl)",
+    "logo_url": "teennick.png",
+    "lang_code": "PL",
+    "category": "Polské",
+    "providers": []
+  },
+  {
+    "id": "15312",
+    "name": "MTV Polska",
+    "logo_url": "mtv.png",
+    "lang_code": "PL",
+    "category": "Polské",
+    "providers": []
+  },
+  {
+    "id": "15316",
+    "name": "Paramount Network (pl)",
+    "logo_url": "paramount.png",
+    "lang_code": "PL",
+    "category": "Polské",
+    "providers": []
+  },
+  {
+    "id": "15317",
+    "name": "Comedy Central (pl)",
+    "logo_url": "comedycentral.png",
+    "lang_code": "PL",
+    "category": "Polské",
+    "providers": []
+  },
+  {
+    "id": "15318",
+    "name": "Polsat Comedy Central Extra (pl)",
+    "logo_url": "comedycentralpolsat.png",
+    "lang_code": "PL",
+    "category": "Polské",
+    "providers": []
+  },
+  {
+    "id": "15325",
+    "name": "Echo24",
+    "logo_url": "echo24.png",
+    "lang_code": "PL",
+    "category": "Polské",
+    "providers": []
+  },
+  {
+    "id": "15411",
+    "name": "Sportowa TV",
+    "logo_url": "sportowa.png",
+    "lang_code": "PL",
+    "category": "Polské",
+    "providers": []
+  },
+  {
+    "id": "15433",
+    "name": "National Geographic (pl)",
+    "logo_url": "ng.png",
+    "lang_code": "PL",
+    "category": "Polské",
+    "providers": []
+  },
+  {
+    "id": "15434",
+    "name": "National Geographic Wild (pl)",
+    "logo_url": "ngwild.png",
+    "lang_code": "PL",
+    "category": "Polské",
+    "providers": []
+  },
+  {
+    "id": "15435",
+    "name": "FX",
+    "logo_url": "fox.png",
+    "lang_code": "PL",
+    "category": "Polské",
+    "providers": []
+  },
+  {
+    "id": "15436",
+    "name": "Eleven Sports 1",
+    "logo_url": "elevensports1.png",
+    "lang_code": "PL",
+    "category": "Polské",
+    "providers": []
+  },
+  {
+    "id": "15437",
+    "name": "Eleven Sports 2",
+    "logo_url": "elevensports2.png",
+    "lang_code": "PL",
+    "category": "Polské",
+    "providers": []
+  },
+  {
+    "id": "15438",
+    "name": "Eleven Sports 3",
+    "logo_url": "elevensports3.png",
+    "lang_code": "PL",
+    "category": "Polské",
+    "providers": []
+  },
+  {
+    "id": "15439",
+    "name": "Eleven Sports 4",
+    "logo_url": "elevensports4.png",
+    "lang_code": "PL",
+    "category": "Polské",
+    "providers": []
+  },
+  {
+    "id": "15443",
+    "name": "TVN24 BiS",
+    "logo_url": "tvn24bis.png",
+    "lang_code": "PL",
+    "category": "Polské",
+    "providers": []
+  },
+  {
+    "id": "15456",
+    "name": "WP",
+    "logo_url": "wp.png",
+    "lang_code": "PL",
+    "category": "Polské",
+    "providers": []
+  },
+  {
+    "id": "15457",
+    "name": "13.tv",
+    "logo_url": "13pl.png",
+    "lang_code": "PL",
+    "category": "Polské",
+    "providers": []
+  },
+  {
+    "id": "15458",
+    "name": "News24",
+    "logo_url": "news24.png",
+    "lang_code": "PL",
+    "category": "Polské",
+    "providers": []
+  },
+  {
+    "id": "15462",
+    "name": "Novelas+1",
+    "logo_url": "dizi.png",
+    "lang_code": "PL",
+    "category": "Polské",
+    "providers": []
+  },
+  {
+    "id": "15463",
+    "name": "BBC Earth",
+    "logo_url": "bbcearth.png",
+    "lang_code": "PL",
+    "category": "Polské",
+    "providers": []
+  },
+  {
+    "id": "15464",
+    "name": "BBC Brit",
+    "logo_url": "bbcbrit.png",
+    "lang_code": "PL",
+    "category": "Polské",
+    "providers": []
+  },
+  {
+    "id": "15465",
+    "name": "BBC Lifestyle",
+    "logo_url": "bbclifestyle.png",
+    "lang_code": "PL",
+    "category": "Polské",
+    "providers": []
+  },
+  {
+    "id": "15466",
+    "name": "AMC (pl)",
+    "logo_url": "amcpl.png",
+    "lang_code": "PL",
+    "category": "Polské",
+    "providers": []
+  },
+  {
+    "id": "15467",
+    "name": "Sundance TV",
+    "logo_url": "sundancetv.png",
+    "lang_code": "PL",
+    "category": "Polské",
+    "providers": []
+  },
+  {
+    "id": "15475",
+    "name": "Motowizja",
+    "logo_url": "motowizja.png",
+    "lang_code": "PL",
+    "category": "Polské",
+    "providers": []
+  },
+  {
+    "id": "15477",
+    "name": "Bollywood",
+    "logo_url": "bollywood.png",
+    "lang_code": "PL",
+    "category": "Polské",
+    "providers": []
+  },
+  {
+    "id": "15478",
+    "name": "TVP World",
+    "logo_url": "tvpworld.png",
+    "lang_code": "PL",
+    "category": "Polské",
+    "providers": []
+  },
+  {
+    "id": "15479",
+    "name": "FighTime",
+    "logo_url": "fightime.png",
+    "lang_code": "PL",
+    "category": "Polské",
+    "providers": []
+  },
+  {
+    "id": "15552",
+    "name": "CTV Dla Ciebie",
+    "logo_url": "ctvdlaciebie.png",
+    "lang_code": "PL",
+    "category": "Polské",
+    "providers": []
+  },
+  {
+    "id": "15557",
+    "name": "FX Comedy",
+    "logo_url": "fxcomedy.png",
+    "lang_code": "PL",
+    "category": "Polské",
+    "providers": []
+  },
+  {
+    "id": "15561",
+    "name": "BBC First (pl)",
+    "logo_url": "bbcfirst.png",
+    "lang_code": "PL",
+    "category": "Polské",
+    "providers": []
+  },
+  {
+    "id": "15571",
+    "name": "Telewizja Biznesowa",
+    "logo_url": "biznesowa.png",
+    "lang_code": "PL",
+    "category": "Polské",
+    "providers": []
+  },
+  {
+    "id": "15579",
+    "name": "TV Okazje",
+    "logo_url": "okazje.png",
+    "lang_code": "PL",
+    "category": "Polské",
+    "providers": []
+  },
+  {
+    "id": "15612",
+    "name": "Sci Fi",
+    "logo_url": "scifi.png",
+    "lang_code": "PL",
+    "category": "Polské",
+    "providers": []
+  },
+  {
+    "id": "15613",
+    "name": "13 Ulica",
+    "logo_url": "13ulica.png",
+    "lang_code": "PL",
+    "category": "Polské",
+    "providers": []
+  },
+  {
+    "id": "15637",
+    "name": "Viasat True Crime (pl)",
+    "logo_url": "viasatruecrime.png",
+    "lang_code": "PL",
+    "category": "Polské",
+    "providers": []
+  },
+  {
+    "id": "15650",
+    "name": "Dolce Vita TV",
+    "logo_url": "dolcevitatv.png",
+    "lang_code": "PL",
+    "category": "Polské",
+    "providers": []
+  },
+  {
+    "id": "15661",
+    "name": "Telewizja Republika",
+    "logo_url": "tvrepublika.png",
+    "lang_code": "PL",
+    "category": "Polské",
+    "providers": []
+  },
+  {
+    "id": "15662",
+    "name": "Remonty TV",
+    "logo_url": "remonty.png",
+    "lang_code": "PL",
+    "category": "Polské",
+    "providers": []
+  },
+  {
+    "id": "16",
+    "name": "3SAT",
+    "logo_url": "3sat.png",
+    "lang_code": "DE",
+    "category": "Německé",
+    "providers": []
+  },
+  {
+    "id": "1121",
+    "name": "ANIXE HD",
+    "logo_url": "anixe.png",
+    "lang_code": "DE",
+    "category": "Německé",
+    "providers": []
+  },
+  {
+    "id": "17",
+    "name": "Das Erste",
+    "logo_url": "daserste.png",
+    "lang_code": "DE",
+    "category": "Německé",
+    "providers": []
+  },
+  {
+    "id": "81",
+    "name": "ARTE",
+    "logo_url": "ARTE.png",
+    "lang_code": "DE",
+    "category": "Německé",
+    "providers": []
+  },
+  {
+    "id": "198",
+    "name": "ATV (de)",
+    "logo_url": "atv_de.png",
+    "lang_code": "DE",
+    "category": "Německé",
+    "providers": []
+  },
+  {
+    "id": "214",
+    "name": "BR",
+    "logo_url": "br.png",
+    "lang_code": "DE",
+    "category": "Německé",
+    "providers": []
+  },
+  {
+    "id": "169",
+    "name": "ARD-alpha",
+    "logo_url": "br_alpha.png",
+    "lang_code": "DE",
+    "category": "Německé",
+    "providers": []
+  },
+  {
+    "id": "583",
+    "name": "Deluxe Lounge HD",
+    "logo_url": "deluxeloungehd.png",
+    "lang_code": "DE",
+    "category": "Německé",
+    "providers": []
+  },
+  {
+    "id": "584",
+    "name": "Deluxe Music",
+    "logo_url": "deluxemusic.png",
+    "lang_code": "DE",
+    "category": "Německé",
+    "providers": []
+  },
+  {
+    "id": "154",
+    "name": "Deutsche Welle",
+    "logo_url": "DW.png",
+    "lang_code": "DE",
+    "category": "Německé",
+    "providers": []
+  },
+  {
+    "id": "18",
+    "name": "SPORT1 (DSF)",
+    "logo_url": "DSF.png",
+    "lang_code": "DE",
+    "category": "Německé",
+    "providers": []
+  },
+  {
+    "id": "148",
+    "name": "HR-fernsehen",
+    "logo_url": "hr.png",
+    "lang_code": "DE",
+    "category": "Německé",
+    "providers": []
+  },
+  {
+    "id": "23",
+    "name": "Kabel1",
+    "logo_url": "Kabel1.png",
+    "lang_code": "DE",
+    "category": "Německé",
+    "providers": []
+  },
+  {
+    "id": "85",
+    "name": "Kika",
+    "logo_url": "Kika.png",
+    "lang_code": "DE",
+    "category": "Německé",
+    "providers": []
+  },
+  {
+    "id": "155",
+    "name": "Welt",
+    "logo_url": "welt.png",
+    "lang_code": "DE",
+    "category": "Německé",
+    "providers": []
+  },
+  {
+    "id": "149",
+    "name": "n-tv",
+    "logo_url": "ntv.png",
+    "lang_code": "DE",
+    "category": "Německé",
+    "providers": []
+  },
+  {
+    "id": "253",
+    "name": "MTV Germany",
+    "logo_url": "mtv.png",
+    "lang_code": "DE",
+    "category": "Německé",
+    "providers": []
+  },
+  {
+    "id": "511",
+    "name": "MDR",
+    "logo_url": "mdr.png",
+    "lang_code": "DE",
+    "category": "Německé",
+    "providers": []
+  },
+  {
+    "id": "152",
+    "name": "NDR Fernsehen",
+    "logo_url": "NDR.png",
+    "lang_code": "DE",
+    "category": "Německé",
+    "providers": []
+  },
+  {
+    "id": "19",
+    "name": "ORF1",
+    "logo_url": "orf1.png",
+    "lang_code": "DE",
+    "category": "Německé",
+    "providers": []
+  },
+  {
+    "id": "20",
+    "name": "ORF2",
+    "logo_url": "orf2.png",
+    "lang_code": "DE",
+    "category": "Německé",
+    "providers": []
+  },
+  {
+    "id": "786",
+    "name": "ORF3",
+    "logo_url": "orf3.png",
+    "lang_code": "DE",
+    "category": "Německé",
+    "providers": []
+  },
+  {
+    "id": "35",
+    "name": "PRO7",
+    "logo_url": "PRO7.png",
+    "lang_code": "DE",
+    "category": "Německé",
+    "providers": []
+  },
+  {
+    "id": "213",
+    "name": "Phoenix",
+    "logo_url": "phoenix.png",
+    "lang_code": "DE",
+    "category": "Německé",
+    "providers": []
+  },
+  {
+    "id": "21",
+    "name": "RTL",
+    "logo_url": "RTL.png",
+    "lang_code": "DE",
+    "category": "Německé",
+    "providers": [
+      "O2",
+      "Skylink SK"
+    ]
+  },
+  {
+    "id": "22",
+    "name": "RTL2",
+    "logo_url": "RTL2.png",
+    "lang_code": "DE",
+    "category": "Německé",
+    "providers": [
+      "O2"
+    ]
+  },
+  {
+    "id": "788",
+    "name": "RTL Nitro",
+    "logo_url": "rtlnitro.png",
+    "lang_code": "DE",
+    "category": "Německé",
+    "providers": []
+  },
+  {
+    "id": "512",
+    "name": "Sixx",
+    "logo_url": "sixx.png",
+    "lang_code": "DE",
+    "category": "Německé",
+    "providers": []
+  },
+  {
+    "id": "135",
+    "name": "RBB Berlin",
+    "logo_url": "rbb1.png",
+    "lang_code": "DE",
+    "category": "Německé",
+    "providers": []
+  },
+  {
+    "id": "24",
+    "name": "SAT1",
+    "logo_url": "SAT1.png",
+    "lang_code": "DE",
+    "category": "Německé",
+    "providers": []
+  },
+  {
+    "id": "143",
+    "name": "Super RTL",
+    "logo_url": "SuperRTL.png",
+    "lang_code": "DE",
+    "category": "Německé",
+    "providers": []
+  },
+  {
+    "id": "146",
+    "name": "SWR Fernsehen",
+    "logo_url": "SWR.png",
+    "lang_code": "DE",
+    "category": "Německé",
+    "providers": []
+  },
+  {
+    "id": "803",
+    "name": "tagesschau24",
+    "logo_url": "tagesschau24.png",
+    "lang_code": "DE",
+    "category": "Německé",
+    "providers": []
+  },
+  {
+    "id": "25",
+    "name": "VOX",
+    "logo_url": "VOX.png",
+    "lang_code": "DE",
+    "category": "Německé",
+    "providers": [
+      "O2"
+    ]
+  },
+  {
+    "id": "36",
+    "name": "VIVA",
+    "logo_url": "VIVA.png",
+    "lang_code": "DE",
+    "category": "Německé",
+    "providers": []
+  },
+  {
+    "id": "151",
+    "name": "WDR Fernsehen",
+    "logo_url": "WDR.png",
+    "lang_code": "DE",
+    "category": "Německé",
+    "providers": []
+  },
+  {
+    "id": "26",
+    "name": "ZDF",
+    "logo_url": "ZDF.png",
+    "lang_code": "DE",
+    "category": "Německé",
+    "providers": []
+  },
+  {
+    "id": "162",
+    "name": "ZDFneo",
+    "logo_url": "zdf_neo.png",
+    "lang_code": "DE",
+    "category": "Německé",
+    "providers": []
+  },
+  {
+    "id": "633",
+    "name": "ZDFinfo",
+    "logo_url": "zdf_info.png",
+    "lang_code": "DE",
+    "category": "Německé",
+    "providers": []
+  },
+  {
+    "id": "1191",
+    "name": "ARD One",
+    "logo_url": "ard_one.png",
+    "lang_code": "DE",
+    "category": "Německé",
+    "providers": []
+  },
+  {
+    "id": "1202",
+    "name": "SAT1 Gold",
+    "logo_url": "sat1gold.png",
+    "lang_code": "DE",
+    "category": "Německé",
+    "providers": []
+  },
+  {
+    "id": "1203",
+    "name": "Disney Channel (de)",
+    "logo_url": "disneychannel.png",
+    "lang_code": "DE",
+    "category": "Německé",
+    "providers": []
+  },
+  {
+    "id": "1468",
+    "name": "AstroTV",
+    "logo_url": "astrotv.png",
+    "lang_code": "DE",
+    "category": "Německé",
+    "providers": []
+  },
+  {
+    "id": "1476",
+    "name": "FOLX",
+    "logo_url": "folx.png",
+    "lang_code": "DE",
+    "category": "Německé",
+    "providers": []
+  },
+  {
+    "id": "1477",
+    "name": "One music",
+    "logo_url": "onemusic.png",
+    "lang_code": "DE",
+    "category": "Německé",
+    "providers": []
+  },
+  {
+    "id": "1478",
+    "name": "Zwei music",
+    "logo_url": "zweimusic.png",
+    "lang_code": "DE",
+    "category": "Německé",
+    "providers": []
+  },
+  {
+    "id": "1479",
+    "name": "Adria",
+    "logo_url": "adria.png",
+    "lang_code": "DE",
+    "category": "Německé",
+    "providers": []
+  },
+  {
+    "id": "183",
+    "name": "Adult Channel",
+    "logo_url": "adult_channel.png",
+    "lang_code": "EN",
+    "category": "",
+    "providers": []
+  },
+  {
+    "id": "95",
+    "name": "Al Jazeera",
+    "logo_url": "aljazeera.png",
+    "lang_code": "EN",
+    "category": "",
+    "providers": []
+  },
+  {
+    "id": "193",
+    "name": "Arirang",
+    "logo_url": "arirang.png",
+    "lang_code": "EN",
+    "category": "",
+    "providers": []
+  },
+  {
+    "id": "1117",
+    "name": "AnimalPlanet UK",
+    "logo_url": "animal_planet.png",
+    "lang_code": "EN",
+    "category": "",
+    "providers": []
+  },
+  {
+    "id": "1105",
+    "name": "At the Races",
+    "logo_url": "attheraces.png",
+    "lang_code": "EN",
+    "category": "",
+    "providers": []
+  },
+  {
+    "id": "105",
+    "name": "Baby TV",
+    "logo_url": "babytv.png",
+    "lang_code": "EN",
+    "category": "",
+    "providers": []
+  },
+  {
+    "id": "837",
+    "name": "BBC One",
+    "logo_url": "bbcone.png",
+    "lang_code": "EN",
+    "category": "",
+    "providers": []
+  },
+  {
+    "id": "838",
+    "name": "BBC Two",
+    "logo_url": "bbctwo.png",
+    "lang_code": "EN",
+    "category": "",
+    "providers": []
+  },
+  {
+    "id": "840",
+    "name": "BBC Four",
+    "logo_url": "bbcfour.png",
+    "lang_code": "EN",
+    "category": "",
+    "providers": []
+  },
+  {
+    "id": "839",
+    "name": "CBBC",
+    "logo_url": "bbcthree.png",
+    "lang_code": "EN",
+    "category": "",
+    "providers": []
+  },
+  {
+    "id": "190",
+    "name": "BBC World News",
+    "logo_url": "bbcworld.png",
+    "lang_code": "EN",
+    "category": "",
+    "providers": []
+  },
+  {
+    "id": "167",
+    "name": "Bloomberg",
+    "logo_url": "bloomberg.png",
+    "lang_code": "EN",
+    "category": "",
+    "providers": []
+  },
+  {
+    "id": "49",
+    "name": "Blue Hustler",
+    "logo_url": "BlueHustler.png",
+    "lang_code": "EN",
+    "category": "",
+    "providers": []
+  },
+  {
+    "id": "64",
+    "name": "Cartoonito",
+    "logo_url": "cartoonito.png",
+    "lang_code": "EN",
+    "category": "",
+    "providers": []
+  },
+  {
+    "id": "185",
+    "name": "Brazzers TV Europe",
+    "logo_url": "brazzers.png",
+    "lang_code": "EN",
+    "category": "",
+    "providers": []
+  },
+  {
+    "id": "45",
+    "name": "Cartoon Network (en2)",
+    "logo_url": "CNT.png",
+    "lang_code": "EN",
+    "category": "",
+    "providers": []
+  },
+  {
+    "id": "559",
+    "name": "CGTN English",
+    "logo_url": "cctv-news.png",
+    "lang_code": "EN",
+    "category": "",
+    "providers": []
+  },
+  {
+    "id": "513",
+    "name": "CCTV9",
+    "logo_url": "cctv9.png",
+    "lang_code": "EN",
+    "category": "",
+    "providers": []
+  },
+  {
+    "id": "29",
+    "name": "CNN International",
+    "logo_url": "CNN.png",
+    "lang_code": "EN",
+    "category": "",
+    "providers": []
+  },
+  {
+    "id": "226",
+    "name": "CNBC Europe",
+    "logo_url": "CNBC.png",
+    "lang_code": "EN",
+    "category": "",
+    "providers": []
+  },
+  {
+    "id": "203",
+    "name": "C Music TV",
+    "logo_url": "c_music.png",
+    "lang_code": "EN",
+    "category": "",
+    "providers": []
+  },
+  {
+    "id": "1066",
+    "name": "Crime and Investigation UK",
+    "logo_url": "ci.png",
+    "lang_code": "EN",
+    "category": "",
+    "providers": []
+  },
+  {
+    "id": "1102",
+    "name": "Discovery History SD",
+    "logo_url": "discoveryhistory.png",
+    "lang_code": "EN",
+    "category": "",
+    "providers": []
+  },
+  {
+    "id": "1116",
+    "name": "Discovery Home and Health SD UK",
+    "logo_url": "discoveryhomeandhealth.png",
+    "lang_code": "EN",
+    "category": "",
+    "providers": []
+  },
+  {
+    "id": "567",
+    "name": "Disney Junior",
+    "logo_url": "disney-junior.png",
+    "lang_code": "EN",
+    "category": "",
+    "providers": []
+  },
+  {
+    "id": "1104",
+    "name": "Disney Junior HD UK",
+    "logo_url": "disneyjuniorhd.png",
+    "lang_code": "EN",
+    "category": "",
+    "providers": []
+  },
+  {
+    "id": "1103",
+    "name": "Disney XD",
+    "logo_url": "disneyxdhd.png",
+    "lang_code": "EN",
+    "category": "",
+    "providers": []
+  },
+  {
+    "id": "733",
+    "name": "DocuBox HD",
+    "logo_url": "docubox.png",
+    "lang_code": "EN",
+    "category": "",
+    "providers": []
+  },
+  {
+    "id": "1083",
+    "name": "E4 HD UK",
+    "logo_url": "e4hd.png",
+    "lang_code": "EN",
+    "category": "",
+    "providers": []
+  },
+  {
+    "id": "682",
+    "name": "English Club TV",
+    "logo_url": "english-club.png",
+    "lang_code": "EN",
+    "category": "",
+    "providers": []
+  },
+  {
+    "id": "731",
+    "name": "Eroxxx HD",
+    "logo_url": "eroxxxhd.png",
+    "lang_code": "EN",
+    "category": "",
+    "providers": []
+  },
+  {
+    "id": "998",
+    "name": "Eurochannel",
+    "logo_url": "eurochannel.png",
+    "lang_code": "EN",
+    "category": "",
+    "providers": []
+  },
+  {
+    "id": "1063",
+    "name": "Eurosport HD British",
+    "logo_url": "eurosport1british.png",
+    "lang_code": "EN",
+    "category": "",
+    "providers": []
+  },
+  {
+    "id": "1086",
+    "name": "Eurosport 2 HD British",
+    "logo_url": "eurosport2british.png",
+    "lang_code": "EN",
+    "category": "",
+    "providers": []
+  },
+  {
+    "id": "51",
+    "name": "Extreme Sports",
+    "logo_url": "Extreme.png",
+    "lang_code": "EN",
+    "category": "",
+    "providers": []
+  },
+  {
+    "id": "734",
+    "name": "FashionBox HD",
+    "logo_url": "fashionboxhd.png",
+    "lang_code": "EN",
+    "category": "",
+    "providers": []
+  },
+  {
+    "id": "209",
+    "name": "Fashion TV F.MEN",
+    "logo_url": "ftv.png",
+    "lang_code": "EN",
+    "category": "",
+    "providers": []
+  },
+  {
+    "id": "227",
+    "name": "FashionTV HD",
+    "logo_url": "FashionTV.png",
+    "lang_code": "EN",
+    "category": "",
+    "providers": []
+  },
+  {
+    "id": "522",
+    "name": "Fashion One",
+    "logo_url": "fashionone.png",
+    "lang_code": "EN",
+    "category": "",
+    "providers": []
+  },
+  {
+    "id": "983",
+    "name": "Fast&Funbox HD",
+    "logo_url": "fastfunbox.png",
+    "lang_code": "EN",
+    "category": "",
+    "providers": []
+  },
+  {
+    "id": "1001",
+    "name": "Film 4",
+    "logo_url": "film4.png",
+    "lang_code": "EN",
+    "category": "",
+    "providers": []
+  },
+  {
+    "id": "982",
+    "name": "FilmBox Arthouse",
+    "logo_url": "filmboxarthouse.png",
+    "lang_code": "EN",
+    "category": "",
+    "providers": []
+  },
+  {
+    "id": "590",
+    "name": "FightBox",
+    "logo_url": "fightboxhd.png",
+    "lang_code": "EN",
+    "category": "",
+    "providers": []
+  },
+  {
+    "id": "723",
+    "name": "Fuel",
+    "logo_url": "fuelhd.png",
+    "lang_code": "EN",
+    "category": "",
+    "providers": []
+  },
+  {
+    "id": "1069",
+    "name": "Good Food Channel HD",
+    "logo_url": "goodfood.png",
+    "lang_code": "EN",
+    "category": "",
+    "providers": []
+  },
+  {
+    "id": "722",
+    "name": "Ginx",
+    "logo_url": "ginx.png",
+    "lang_code": "EN",
+    "category": "",
+    "providers": []
+  },
+  {
+    "id": "1022",
+    "name": "History2",
+    "logo_url": "h2.png",
+    "lang_code": "EN",
+    "category": "",
+    "providers": []
+  },
+  {
+    "id": "1071",
+    "name": "History HD UK",
+    "logo_url": "historyhd.png",
+    "lang_code": "EN",
+    "category": "",
+    "providers": []
+  },
+  {
+    "id": "63",
+    "name": "Hustler TV",
+    "logo_url": "HustlerTV.png",
+    "lang_code": "EN",
+    "category": "",
+    "providers": []
+  },
+  {
+    "id": "564",
+    "name": "Hustler HD",
+    "logo_url": "hustlerhd3d.png",
+    "lang_code": "EN",
+    "category": "",
+    "providers": []
+  },
+  {
+    "id": "851",
+    "name": "Channel 5",
+    "logo_url": "channel5.png",
+    "lang_code": "EN",
+    "category": "",
+    "providers": []
+  },
+  {
+    "id": "852",
+    "name": "Channel 4",
+    "logo_url": "channel4.png",
+    "lang_code": "EN",
+    "category": "",
+    "providers": []
+  },
+  {
+    "id": "543",
+    "name": "iConcerts",
+    "logo_url": "iconcerts.png",
+    "lang_code": "EN",
+    "category": "",
+    "providers": []
+  },
+  {
+    "id": "853",
+    "name": "ITV",
+    "logo_url": "itv.png",
+    "lang_code": "EN",
+    "category": "",
+    "providers": []
+  },
+  {
+    "id": "1003",
+    "name": "ITV2",
+    "logo_url": "itv2.png",
+    "lang_code": "EN",
+    "category": "",
+    "providers": []
+  },
+  {
+    "id": "1078",
+    "name": "ITV3",
+    "logo_url": "itv3.png",
+    "lang_code": "EN",
+    "category": "",
+    "providers": []
+  },
+  {
+    "id": "1079",
+    "name": "ITV4",
+    "logo_url": "itv4.png",
+    "lang_code": "EN",
+    "category": "",
+    "providers": []
+  },
+  {
+    "id": "1076",
+    "name": "ITV HD London",
+    "logo_url": "itvhd.png",
+    "lang_code": "EN",
+    "category": "",
+    "providers": []
+  },
+  {
+    "id": "166",
+    "name": "KBS World",
+    "logo_url": "KBS.png",
+    "lang_code": "EN",
+    "category": "",
+    "providers": []
+  },
+  {
+    "id": "724",
+    "name": "Luxe.tv HD",
+    "logo_url": "luxehd.png",
+    "lang_code": "EN",
+    "category": "",
+    "providers": []
+  },
+  {
+    "id": "1099",
+    "name": "NBA SD",
+    "logo_url": "nba.png",
+    "lang_code": "EN",
+    "category": "",
+    "providers": []
+  },
+  {
+    "id": "887",
+    "name": "NHK World TV",
+    "logo_url": "nhk.png",
+    "lang_code": "EN",
+    "category": "",
+    "providers": []
+  },
+  {
+    "id": "1000",
+    "name": "More 4",
+    "logo_url": "more4.png",
+    "lang_code": "EN",
+    "category": "",
+    "providers": []
+  },
+  {
+    "id": "160",
+    "name": "Club MTV",
+    "logo_url": "clubmtv.png",
+    "lang_code": "EN",
+    "category": "",
+    "providers": []
+  },
+  {
+    "id": "41",
+    "name": "MTV90s",
+    "logo_url": "mtv90.png",
+    "lang_code": "EN",
+    "category": "",
+    "providers": []
+  },
+  {
+    "id": "37",
+    "name": "MTV Hits",
+    "logo_url": "mtv_hits.png",
+    "lang_code": "EN",
+    "category": "",
+    "providers": []
+  },
+  {
+    "id": "525",
+    "name": "MTV Live",
+    "logo_url": "mtv_live.png",
+    "lang_code": "EN",
+    "category": "",
+    "providers": []
+  },
+  {
+    "id": "1126",
+    "name": "MTV UK HD",
+    "logo_url": "mtvhd.png",
+    "lang_code": "EN",
+    "category": "",
+    "providers": []
+  },
+  {
+    "id": "1113",
+    "name": "National Geographic HD UK",
+    "logo_url": "natgeowild.png",
+    "lang_code": "EN",
+    "category": "",
+    "providers": []
+  },
+  {
+    "id": "1106",
+    "name": "National Geographic Wild HD Europe",
+    "logo_url": "ngwild.png",
+    "lang_code": "EN",
+    "category": "",
+    "providers": []
+  },
+  {
+    "id": "637",
+    "name": "Outdoor Channel",
+    "logo_url": "outdoorhd.png",
+    "lang_code": "EN",
+    "category": "",
+    "providers": []
+  },
+  {
+    "id": "1002",
+    "name": "Pick TV",
+    "logo_url": "pick.png",
+    "lang_code": "EN",
+    "category": "",
+    "providers": []
+  },
+  {
+    "id": "186",
+    "name": "Playboy TV",
+    "logo_url": "playboy_tv.png",
+    "lang_code": "EN",
+    "category": "",
+    "providers": []
+  },
+  {
+    "id": "849",
+    "name": "Redlight HD",
+    "logo_url": "redlight.png",
+    "lang_code": "EN",
+    "category": "",
+    "providers": []
+  },
+  {
+    "id": "1059",
+    "name": "Sky1 HD UK",
+    "logo_url": "sky1hd.png",
+    "lang_code": "EN",
+    "category": "",
+    "providers": []
+  },
+  {
+    "id": "1050",
+    "name": "Sky Arts HD",
+    "logo_url": "skyartshd.png",
+    "lang_code": "EN",
+    "category": "",
+    "providers": []
+  },
+  {
+    "id": "1060",
+    "name": "Sky Atlantic HD UK",
+    "logo_url": "skyatlantichd.png",
+    "lang_code": "EN",
+    "category": "",
+    "providers": []
+  },
+  {
+    "id": "1065",
+    "name": "Sky Living HD",
+    "logo_url": "skylivinghd.png",
+    "lang_code": "EN",
+    "category": "",
+    "providers": []
+  },
+  {
+    "id": "1042",
+    "name": "Sky Movies Action & Adventure HD",
+    "logo_url": "skymoviesactionadventure.png",
+    "lang_code": "EN",
+    "category": "",
+    "providers": []
+  },
+  {
+    "id": "1043",
+    "name": "Sky Movies Comedy HD",
+    "logo_url": "skymovieshdcomedy.png",
+    "lang_code": "EN",
+    "category": "",
+    "providers": []
+  },
+  {
+    "id": "1044",
+    "name": "Sky Movies Crime & Thriller HD",
+    "logo_url": "skymoviescrimethriller.png",
+    "lang_code": "EN",
+    "category": "",
+    "providers": []
+  },
+  {
+    "id": "1049",
+    "name": "Sky Movies Drama & Romance HD",
+    "logo_url": "skymovieshddramaromance.png",
+    "lang_code": "EN",
+    "category": "",
+    "providers": []
+  },
+  {
+    "id": "1111",
+    "name": "Sky Movies Disney HD",
+    "logo_url": "skymovieshddisney.png",
+    "lang_code": "EN",
+    "category": "",
+    "providers": []
+  },
+  {
+    "id": "1046",
+    "name": "Sky Movies Family HD",
+    "logo_url": "skymovieshdfamily.png",
+    "lang_code": "EN",
+    "category": "",
+    "providers": []
+  },
+  {
+    "id": "1047",
+    "name": "Sky Movies Greats HD",
+    "logo_url": "skymoviesgreats.png",
+    "lang_code": "EN",
+    "category": "",
+    "providers": []
+  },
+  {
+    "id": "1048",
+    "name": "Sky Movies Premiere HD",
+    "logo_url": "skymovieshdpremiere.png",
+    "lang_code": "EN",
+    "category": "",
+    "providers": []
+  },
+  {
+    "id": "1045",
+    "name": "Sky Movies Select HD",
+    "logo_url": "skymovieshdselect.png",
+    "lang_code": "EN",
+    "category": "",
+    "providers": []
+  },
+  {
+    "id": "1118",
+    "name": "Sky Movies Showcase HD",
+    "logo_url": "skymoviesshowcase.png",
+    "lang_code": "EN",
+    "category": "",
+    "providers": []
+  },
+  {
+    "id": "195",
+    "name": "Sky news",
+    "logo_url": "skynews.png",
+    "lang_code": "EN",
+    "category": "",
+    "providers": []
+  },
+  {
+    "id": "1119",
+    "name": "Sky SciFi & Horror SD",
+    "logo_url": "skymovieshdscifihorror.png",
+    "lang_code": "EN",
+    "category": "",
+    "providers": []
+  },
+  {
+    "id": "502",
+    "name": "Sky Sports 1",
+    "logo_url": "skysportshd1.png",
+    "lang_code": "EN",
+    "category": "",
+    "providers": []
+  },
+  {
+    "id": "503",
+    "name": "Sky Sports 2",
+    "logo_url": "skysportshd2.png",
+    "lang_code": "EN",
+    "category": "",
+    "providers": []
+  },
+  {
+    "id": "504",
+    "name": "Sky Sports 3",
+    "logo_url": "skysportshd3.png",
+    "lang_code": "EN",
+    "category": "",
+    "providers": []
+  },
+  {
+    "id": "505",
+    "name": "Sky Sports 4",
+    "logo_url": "skysportshd4.png",
+    "lang_code": "EN",
+    "category": "",
+    "providers": []
+  },
+  {
+    "id": "1056",
+    "name": "Sky Sports 5",
+    "logo_url": "skysports5.png",
+    "lang_code": "EN",
+    "category": "",
+    "providers": []
+  },
+  {
+    "id": "507",
+    "name": "Sky Sports News",
+    "logo_url": "skysportsnewshd.png",
+    "lang_code": "EN",
+    "category": "",
+    "providers": []
+  },
+  {
+    "id": "981",
+    "name": "Super One",
+    "logo_url": "superone.png",
+    "lang_code": "EN",
+    "category": "",
+    "providers": []
+  },
+  {
+    "id": "46",
+    "name": "TCM",
+    "logo_url": "TCM.png",
+    "lang_code": "EN",
+    "category": "",
+    "providers": []
+  },
+  {
+    "id": "163",
+    "name": "TCM (v UPC)",
+    "logo_url": "TCM.png",
+    "lang_code": "EN",
+    "category": "",
+    "providers": []
+  },
+  {
+    "id": "890",
+    "name": "TV5monde (en)",
+    "logo_url": "TV5monde.png",
+    "lang_code": "EN",
+    "category": "",
+    "providers": []
+  },
+  {
+    "id": "30",
+    "name": "MTV00s",
+    "logo_url": "mtv00s.png",
+    "lang_code": "EN",
+    "category": "",
+    "providers": []
+  },
+  {
+    "id": "39",
+    "name": "MTV80s",
+    "logo_url": "mtv80s.png",
+    "lang_code": "EN",
+    "category": "",
+    "providers": []
+  },
+  {
+    "id": "841",
+    "name": "360TuneBox",
+    "logo_url": "360tunebox.png",
+    "lang_code": "EN",
+    "category": "",
+    "providers": []
+  },
+  {
+    "id": "79",
+    "name": "Private TV",
+    "logo_url": "privatetv.png",
+    "lang_code": "EN",
+    "category": "",
+    "providers": []
+  },
+  {
+    "id": "1166",
+    "name": "DJazz",
+    "logo_url": "djazz.png",
+    "lang_code": "EN",
+    "category": "",
+    "providers": []
+  },
+  {
+    "id": "1176",
+    "name": "Nautical Channel",
+    "logo_url": "nautical.png",
+    "lang_code": "EN",
+    "category": "",
+    "providers": []
+  },
+  {
+    "id": "1200",
+    "name": "TV4 (hu)",
+    "logo_url": "tv4_hu.png",
+    "lang_code": "EN",
+    "category": "",
+    "providers": []
+  },
+  {
+    "id": "1201",
+    "name": "Nick Jr. (en)",
+    "logo_url": "nickjr.png",
+    "lang_code": "EN",
+    "category": "",
+    "providers": []
+  },
+  {
+    "id": "1204",
+    "name": "Cartoon Network (en)",
+    "logo_url": "CNT.png",
+    "lang_code": "EN",
+    "category": "",
+    "providers": []
+  },
+  {
+    "id": "1235",
+    "name": "Nick Jr. Global",
+    "logo_url": "nickjr.png",
+    "lang_code": "EN",
+    "category": "",
+    "providers": []
+  },
+  {
+    "id": "1246",
+    "name": "Red Bull TV",
+    "logo_url": "redbulltv.png",
+    "lang_code": "EN",
+    "category": "",
+    "providers": []
+  },
+  {
+    "id": "1317",
+    "name": "Passion XXX",
+    "logo_url": "passionxxx.png",
+    "lang_code": "EN",
+    "category": "",
+    "providers": []
+  },
+  {
+    "id": "1041",
+    "name": "Reality Kings TV",
+    "logo_url": "reality_kings.png",
+    "lang_code": "EN",
+    "category": "",
+    "providers": []
+  },
+  {
+    "id": "1336",
+    "name": "TRT World",
+    "logo_url": "trtworld.png",
+    "lang_code": "EN",
+    "category": "",
+    "providers": []
+  },
+  {
+    "id": "1465",
+    "name": "True Amateurs",
+    "logo_url": "pornhub.png",
+    "lang_code": "EN",
+    "category": "",
+    "providers": []
+  },
+  {
+    "id": "1466",
+    "name": "LollyKids",
+    "logo_url": "lollyKids.png",
+    "lang_code": "EN",
+    "category": "",
+    "providers": []
+  },
+  {
+    "id": "1517",
+    "name": "Babes TV",
+    "logo_url": "babes.png",
+    "lang_code": "EN",
+    "category": "",
+    "providers": []
+  },
+  {
+    "id": "1518",
+    "name": "Desire",
+    "logo_url": "desire.png",
+    "lang_code": "EN",
+    "category": "",
+    "providers": []
+  },
+  {
+    "id": "1524",
+    "name": "Wild nature",
+    "logo_url": "wildnature.png",
+    "lang_code": "EN",
+    "category": "",
+    "providers": []
+  },
+  {
+    "id": "1525",
+    "name": "Home",
+    "logo_url": "home.png",
+    "lang_code": "EN",
+    "category": "",
+    "providers": []
+  },
+  {
+    "id": "1527",
+    "name": "TRT Arabi",
+    "logo_url": "trtarabi.png",
+    "lang_code": "EN",
+    "category": "",
+    "providers": []
+  },
+  {
+    "id": "15516",
+    "name": "Newsmax TV",
+    "logo_url": "newsmax.png",
+    "lang_code": "EN",
+    "category": "",
+    "providers": []
+  },
+  {
+    "id": "15518",
+    "name": "Pure Babes",
+    "logo_url": "purebabes.png",
+    "lang_code": "EN",
+    "category": "",
+    "providers": []
+  },
+  {
+    "id": "15519",
+    "name": "BangU",
+    "logo_url": "bangu.png",
+    "lang_code": "EN",
+    "category": "",
+    "providers": []
+  },
+  {
+    "id": "15556",
+    "name": "Cars & Stars TV",
+    "logo_url": "carsstars.png",
+    "lang_code": "EN",
+    "category": "",
+    "providers": []
+  },
+  {
+    "id": "15566",
+    "name": "Yachting TV",
+    "logo_url": "yachtingtv.png",
+    "lang_code": "EN",
+    "category": "",
+    "providers": []
+  },
+  {
+    "id": "15569",
+    "name": "CGTN Documentary",
+    "logo_url": "cgtndoc.png",
+    "lang_code": "EN",
+    "category": "",
+    "providers": []
+  },
+  {
+    "id": "591",
+    "name": "Erox HD",
+    "logo_url": "eroxhd.png",
+    "lang_code": "EN",
+    "category": "",
+    "providers": []
+  },
+  {
+    "id": "638",
+    "name": "Body in Balance",
+    "logo_url": "bib.png",
+    "lang_code": "EN",
+    "category": "",
+    "providers": []
+  },
+  {
+    "id": "15586",
+    "name": "Prime Fight",
+    "logo_url": "primefight.png",
+    "lang_code": "EN",
+    "category": "",
+    "providers": []
+  },
+  {
+    "id": "534",
+    "name": "ARTE (fr.)",
+    "logo_url": "arte.png",
+    "lang_code": "FR",
+    "category": "",
+    "providers": []
+  },
+  {
+    "id": "516",
+    "name": "CGTN Francais",
+    "logo_url": "cntv-fra.png",
+    "lang_code": "FR",
+    "category": "",
+    "providers": []
+  },
+  {
+    "id": "133",
+    "name": "France2",
+    "logo_url": "france2.png",
+    "lang_code": "FR",
+    "category": "",
+    "providers": []
+  },
+  {
+    "id": "134",
+    "name": "France3",
+    "logo_url": "france3.png",
+    "lang_code": "FR",
+    "category": "",
+    "providers": []
+  },
+  {
+    "id": "528",
+    "name": "France4",
+    "logo_url": "france4.png",
+    "lang_code": "FR",
+    "category": "",
+    "providers": []
+  },
+  {
+    "id": "529",
+    "name": "France5",
+    "logo_url": "france5.png",
+    "lang_code": "FR",
+    "category": "",
+    "providers": []
+  },
+  {
+    "id": "144",
+    "name": "France24",
+    "logo_url": "france24.png",
+    "lang_code": "FR",
+    "category": "",
+    "providers": []
+  },
+  {
+    "id": "145",
+    "name": "France24 EN",
+    "logo_url": "france24.png",
+    "lang_code": "FR",
+    "category": "",
+    "providers": []
+  },
+  {
+    "id": "538",
+    "name": "Gulli",
+    "logo_url": "gulli.png",
+    "lang_code": "FR",
+    "category": "",
+    "providers": []
+  },
+  {
+    "id": "536",
+    "name": "CNews",
+    "logo_url": "iTele.png",
+    "lang_code": "FR",
+    "category": "",
+    "providers": []
+  },
+  {
+    "id": "531",
+    "name": "LCP",
+    "logo_url": "lcp2.png",
+    "lang_code": "FR",
+    "category": "",
+    "providers": []
+  },
+  {
+    "id": "43",
+    "name": "Mezzo",
+    "logo_url": "Mezzo.png",
+    "lang_code": "FR",
+    "category": "",
+    "providers": []
+  },
+  {
+    "id": "569",
+    "name": "Mezzo Live HD",
+    "logo_url": "mezzo_live_hd.png",
+    "lang_code": "FR",
+    "category": "",
+    "providers": []
+  },
+  {
+    "id": "238",
+    "name": "Dorcel TV",
+    "logo_url": "dorceltv.png",
+    "lang_code": "FR",
+    "category": "",
+    "providers": []
+  },
+  {
+    "id": "540",
+    "name": "M6",
+    "logo_url": "m6.png",
+    "lang_code": "FR",
+    "category": "",
+    "providers": []
+  },
+  {
+    "id": "719",
+    "name": "myZen",
+    "logo_url": "myzen.png",
+    "lang_code": "FR",
+    "category": "",
+    "providers": []
+  },
+  {
+    "id": "995",
+    "name": "RFM TV",
+    "logo_url": "rfm.png",
+    "lang_code": "FR",
+    "category": "",
+    "providers": []
+  },
+  {
+    "id": "530",
+    "name": "TF1",
+    "logo_url": "TF1.png",
+    "lang_code": "FR",
+    "category": "",
+    "providers": []
+  },
+  {
+    "id": "720",
+    "name": "Trace Sports",
+    "logo_url": "tracesportshd.png",
+    "lang_code": "FR",
+    "category": "",
+    "providers": []
+  },
+  {
+    "id": "535",
+    "name": "TMC",
+    "logo_url": "TMC.png",
+    "lang_code": "FR",
+    "category": "",
+    "providers": []
+  },
+  {
+    "id": "89",
+    "name": "TV5monde",
+    "logo_url": "TV5monde.png",
+    "lang_code": "FR",
+    "category": "",
+    "providers": []
+  },
+  {
+    "id": "257",
+    "name": "Wild TV",
+    "logo_url": "wildtv.png",
+    "lang_code": "FR",
+    "category": "",
+    "providers": []
+  },
+  {
+    "id": "587",
+    "name": "Wild TV HD",
+    "logo_url": "wildtv.png",
+    "lang_code": "FR",
+    "category": "",
+    "providers": []
+  },
+  {
+    "id": "1183",
+    "name": "Dorcel XXX",
+    "logo_url": "dorcel_xxx.png",
+    "lang_code": "FR",
+    "category": "",
+    "providers": []
+  },
+  {
+    "id": "1342",
+    "name": "myZen 4K",
+    "logo_url": "myzen.png",
+    "lang_code": "FR",
+    "category": "",
+    "providers": []
+  },
+  {
+    "id": "235",
+    "name": "ATV",
+    "logo_url": "atv.png",
+    "lang_code": "HU",
+    "category": "",
+    "providers": []
+  },
+  {
+    "id": "754",
+    "name": "Sony Max",
+    "logo_url": "sonymax.png",
+    "lang_code": "HU",
+    "category": "",
+    "providers": []
+  },
+  {
+    "id": "730",
+    "name": "AXN Sat",
+    "logo_url": "hu_axn.png",
+    "lang_code": "HU",
+    "category": "",
+    "providers": []
+  },
+  {
+    "id": "755",
+    "name": "Sony Movie",
+    "logo_url": "sonymovie.png",
+    "lang_code": "HU",
+    "category": "",
+    "providers": []
+  },
+  {
+    "id": "561",
+    "name": "Cartoon Network+TCM (hu)",
+    "logo_url": "tcmcnt.png",
+    "lang_code": "HU",
+    "category": "",
+    "providers": []
+  },
+  {
+    "id": "811",
+    "name": "Comedy Central (hu)",
+    "logo_url": "cchu.png",
+    "lang_code": "HU",
+    "category": "",
+    "providers": []
+  },
+  {
+    "id": "116",
+    "name": "Cool TV",
+    "logo_url": "hu_cooltv.png",
+    "lang_code": "HU",
+    "category": "",
+    "providers": []
+  },
+  {
+    "id": "797",
+    "name": "FEM3",
+    "logo_url": "fem3.png",
+    "lang_code": "HU",
+    "category": "",
+    "providers": []
+  },
+  {
+    "id": "578",
+    "name": "Film Mánia",
+    "logo_url": "hu_filmmania.png",
+    "lang_code": "HU",
+    "category": "",
+    "providers": []
+  },
+  {
+    "id": "96",
+    "name": "Duna",
+    "logo_url": "duna.png",
+    "lang_code": "HU",
+    "category": "",
+    "providers": []
+  },
+  {
+    "id": "128",
+    "name": "Duna World",
+    "logo_url": "duna_world.png",
+    "lang_code": "HU",
+    "category": "",
+    "providers": []
+  },
+  {
+    "id": "229",
+    "name": "Hír TV",
+    "logo_url": "hirtv.png",
+    "lang_code": "HU",
+    "category": "",
+    "providers": []
+  },
+  {
+    "id": "517",
+    "name": "RTL Gold",
+    "logo_url": "rtl_klub.png",
+    "lang_code": "HU",
+    "category": "",
+    "providers": []
+  },
+  {
+    "id": "749",
+    "name": "Film+ (hu)",
+    "logo_url": "hu_filmplusz.png",
+    "lang_code": "HU",
+    "category": "",
+    "providers": []
+  },
+  {
+    "id": "753",
+    "name": "Film Café",
+    "logo_url": "hu_filmcafe.png",
+    "lang_code": "HU",
+    "category": "",
+    "providers": []
+  },
+  {
+    "id": "261",
+    "name": "Life Network",
+    "logo_url": "lifenetwork.png",
+    "lang_code": "HU",
+    "category": "",
+    "providers": []
+  },
+  {
+    "id": "86",
+    "name": "M1",
+    "logo_url": "m1.png",
+    "lang_code": "HU",
+    "category": "",
+    "providers": []
+  },
+  {
+    "id": "87",
+    "name": "M2",
+    "logo_url": "m2.png",
+    "lang_code": "HU",
+    "category": "",
+    "providers": []
+  },
+  {
+    "id": "1026",
+    "name": "M4 Sport",
+    "logo_url": "m4.png",
+    "lang_code": "HU",
+    "category": "",
+    "providers": []
+  },
+  {
+    "id": "759",
+    "name": "Megamax (hu)",
+    "logo_url": "hu_megamax.png",
+    "lang_code": "HU",
+    "category": "",
+    "providers": []
+  },
+  {
+    "id": "760",
+    "name": "Minimax (hu)",
+    "logo_url": "hu_minimax.png",
+    "lang_code": "HU",
+    "category": "",
+    "providers": []
+  },
+  {
+    "id": "520",
+    "name": "Muzsika TV",
+    "logo_url": "hu_muzsika.png",
+    "lang_code": "HU",
+    "category": "",
+    "providers": []
+  },
+  {
+    "id": "987",
+    "name": "Music Channel (hu)",
+    "logo_url": "musicchannelhu.png",
+    "lang_code": "HU",
+    "category": "",
+    "providers": []
+  },
+  {
+    "id": "988",
+    "name": "MTV (hu)",
+    "logo_url": "mtv.png",
+    "lang_code": "HU",
+    "category": "",
+    "providers": []
+  },
+  {
+    "id": "765",
+    "name": "National Geographic (hu)",
+    "logo_url": "hu_ng.png",
+    "lang_code": "HU",
+    "category": "",
+    "providers": []
+  },
+  {
+    "id": "766",
+    "name": "National Geographic Wild (hu)",
+    "logo_url": "hu_ngwild.png",
+    "lang_code": "HU",
+    "category": "",
+    "providers": []
+  },
+  {
+    "id": "809",
+    "name": "Nickelodeon (hu)",
+    "logo_url": "nickelodeon.png",
+    "lang_code": "HU",
+    "category": "",
+    "providers": []
+  },
+  {
+    "id": "521",
+    "name": "Nóta TV",
+    "logo_url": "nota.png",
+    "lang_code": "HU",
+    "category": "",
+    "providers": []
+  },
+  {
+    "id": "758",
+    "name": "Paprika (hu)",
+    "logo_url": "hu_paprika.png",
+    "lang_code": "HU",
+    "category": "",
+    "providers": []
+  },
+  {
+    "id": "796",
+    "name": "PRO4",
+    "logo_url": "pro4.png",
+    "lang_code": "HU",
+    "category": "",
+    "providers": []
+  },
+  {
+    "id": "748",
+    "name": "RTL2 (hu)",
+    "logo_url": "hu_rtl2.png",
+    "lang_code": "HU",
+    "category": "",
+    "providers": []
+  },
+  {
+    "id": "884",
+    "name": "RTL+",
+    "logo_url": "rtlplusz.png",
+    "lang_code": "HU",
+    "category": "",
+    "providers": []
+  },
+  {
+    "id": "88",
+    "name": "RTL klub",
+    "logo_url": "hu_rtlklub.png",
+    "lang_code": "HU",
+    "category": "",
+    "providers": []
+  },
+  {
+    "id": "756",
+    "name": "Spektrum (hu)",
+    "logo_url": "hu_spektrum.png",
+    "lang_code": "HU",
+    "category": "",
+    "providers": []
+  },
+  {
+    "id": "762",
+    "name": "Sport1 (hu)",
+    "logo_url": "hu_sport1.png",
+    "lang_code": "HU",
+    "category": "",
+    "providers": []
+  },
+  {
+    "id": "763",
+    "name": "Sport2 (hu)",
+    "logo_url": "hu_sport2.png",
+    "lang_code": "HU",
+    "category": "",
+    "providers": []
+  },
+  {
+    "id": "757",
+    "name": "Spektrum Home (hu)",
+    "logo_url": "hu_spektrumhome.png",
+    "lang_code": "HU",
+    "category": "",
+    "providers": []
+  },
+  {
+    "id": "764",
+    "name": "SportM (hu)",
+    "logo_url": "hu_sportm.png",
+    "lang_code": "HU",
+    "category": "",
+    "providers": []
+  },
+  {
+    "id": "518",
+    "name": "Sorozat+",
+    "logo_url": "hu_sorozat.png",
+    "lang_code": "HU",
+    "category": "",
+    "providers": []
+  },
+  {
+    "id": "230",
+    "name": "Story4",
+    "logo_url": "hu_story4.png",
+    "lang_code": "HU",
+    "category": "",
+    "providers": []
+  },
+  {
+    "id": "795",
+    "name": "SuperTV2",
+    "logo_url": "supertv2.png",
+    "lang_code": "HU",
+    "category": "",
+    "providers": []
+  },
+  {
+    "id": "94",
+    "name": "TV2",
+    "logo_url": "tv2.png",
+    "lang_code": "HU",
+    "category": "",
+    "providers": []
+  },
+  {
+    "id": "550",
+    "name": "Viasat3",
+    "logo_url": "viasat3.png",
+    "lang_code": "HU",
+    "category": "",
+    "providers": []
+  },
+  {
+    "id": "792",
+    "name": "Viasat6",
+    "logo_url": "viasat6.png",
+    "lang_code": "HU",
+    "category": "",
+    "providers": []
+  },
+  {
+    "id": "810",
+    "name": "VIVA (hu)",
+    "logo_url": "VIVA.png",
+    "lang_code": "HU",
+    "category": "",
+    "providers": []
+  },
+  {
+    "id": "1151",
+    "name": "M5 HD",
+    "logo_url": "m5.png",
+    "lang_code": "HU",
+    "category": "",
+    "providers": []
+  },
+  {
+    "id": "1152",
+    "name": "PRIME",
+    "logo_url": "prime.png",
+    "lang_code": "HU",
+    "category": "",
+    "providers": []
+  },
+  {
+    "id": "1153",
+    "name": "Mozi+",
+    "logo_url": "mozi.png",
+    "lang_code": "HU",
+    "category": "",
+    "providers": []
+  },
+  {
+    "id": "1154",
+    "name": "Izaura TV",
+    "logo_url": "izaura.png",
+    "lang_code": "HU",
+    "category": "",
+    "providers": []
+  },
+  {
+    "id": "1155",
+    "name": "Zenebutik",
+    "logo_url": "zenebutik.png",
+    "lang_code": "HU",
+    "category": "",
+    "providers": []
+  },
+  {
+    "id": "1156",
+    "name": "FOX",
+    "logo_url": "fox.png",
+    "lang_code": "HU",
+    "category": "",
+    "providers": []
+  },
+  {
+    "id": "1157",
+    "name": "Spiler TV",
+    "logo_url": "spiler.png",
+    "lang_code": "HU",
+    "category": "",
+    "providers": []
+  },
+  {
+    "id": "1158",
+    "name": "Paramount Channel",
+    "logo_url": "paramount.png",
+    "lang_code": "HU",
+    "category": "",
+    "providers": []
+  },
+  {
+    "id": "1160",
+    "name": "Pax TV",
+    "logo_url": "pax.png",
+    "lang_code": "HU",
+    "category": "",
+    "providers": []
+  },
+  {
+    "id": "1170",
+    "name": "Euronews (hu)",
+    "logo_url": "euronews.png",
+    "lang_code": "HU",
+    "category": "",
+    "providers": []
+  },
+  {
+    "id": "1182",
+    "name": "Sláger TV",
+    "logo_url": "slager.png",
+    "lang_code": "HU",
+    "category": "",
+    "providers": []
+  },
+  {
+    "id": "1186",
+    "name": "Galaxy",
+    "logo_url": "galaxy.png",
+    "lang_code": "HU",
+    "category": "",
+    "providers": []
+  },
+  {
+    "id": "1207",
+    "name": "Filmbox (hu)",
+    "logo_url": "filmbox.png",
+    "lang_code": "HU",
+    "category": "",
+    "providers": []
+  },
+  {
+    "id": "1366",
+    "name": "Lichi TV",
+    "logo_url": "lichitv.png",
+    "lang_code": "HU",
+    "category": "",
+    "providers": []
+  },
+  {
+    "id": "1370",
+    "name": "FIX TV",
+    "logo_url": "fixtv.png",
+    "lang_code": "HU",
+    "category": "",
+    "providers": []
+  },
+  {
+    "id": "1480",
+    "name": "Moziverzum",
+    "logo_url": "moziverzum.png",
+    "lang_code": "HU",
+    "category": "",
+    "providers": []
+  },
+  {
+    "id": "1481",
+    "name": "Jocky TV",
+    "logo_url": "jocky.png",
+    "lang_code": "HU",
+    "category": "",
+    "providers": []
+  },
+  {
+    "id": "15324",
+    "name": "TV2 Séf",
+    "logo_url": "tv2sef.png",
+    "lang_code": "HU",
+    "category": "",
+    "providers": []
+  },
+  {
+    "id": "15407",
+    "name": "Spíler2 TV",
+    "logo_url": "spiler2.png",
+    "lang_code": "HU",
+    "category": "",
+    "providers": []
+  },
+  {
+    "id": "15515",
+    "name": "ATV Spirit",
+    "logo_url": "atv.png",
+    "lang_code": "HU",
+    "category": "",
+    "providers": []
+  },
+  {
+    "id": "15539",
+    "name": "Moziklub",
+    "logo_url": "moziklub.png",
+    "lang_code": "HU",
+    "category": "",
+    "providers": []
+  },
+  {
+    "id": "15540",
+    "name": "Sorozatklub",
+    "logo_url": "sorozatklub.png",
+    "lang_code": "HU",
+    "category": "",
+    "providers": []
+  },
+  {
+    "id": "15541",
+    "name": "Kolyokklub",
+    "logo_url": "kolyokklub.png",
+    "lang_code": "HU",
+    "category": "",
+    "providers": []
+  },
+  {
+    "id": "15542",
+    "name": "RTL Otthon",
+    "logo_url": "rtlotthon.png",
+    "lang_code": "HU",
+    "category": "",
+    "providers": []
+  },
+  {
+    "id": "174",
+    "name": "Canale 5",
+    "logo_url": "canale5.png",
+    "lang_code": "IT",
+    "category": "",
+    "providers": []
+  },
+  {
+    "id": "642",
+    "name": "Cielo",
+    "logo_url": "cielo.png",
+    "lang_code": "IT",
+    "category": "",
+    "providers": []
+  },
+  {
+    "id": "645",
+    "name": "Deejay TV",
+    "logo_url": "deejay.png",
+    "lang_code": "IT",
+    "category": "",
+    "providers": []
+  },
+  {
+    "id": "647",
+    "name": "Euronews",
+    "logo_url": "euronews.png",
+    "lang_code": "IT",
+    "category": "",
+    "providers": []
+  },
+  {
+    "id": "648",
+    "name": "Frisbee",
+    "logo_url": "frisbee.png",
+    "lang_code": "IT",
+    "category": "",
+    "providers": []
+  },
+  {
+    "id": "649",
+    "name": "HSE24",
+    "logo_url": "hse24.png",
+    "lang_code": "IT",
+    "category": "",
+    "providers": []
+  },
+  {
+    "id": "650",
+    "name": "Italia 2",
+    "logo_url": "italia2.png",
+    "lang_code": "IT",
+    "category": "",
+    "providers": []
+  },
+  {
+    "id": "176",
+    "name": "Italia 1",
+    "logo_url": "italia1.png",
+    "lang_code": "IT",
+    "category": "",
+    "providers": []
+  },
+  {
+    "id": "651",
+    "name": "Iris",
+    "logo_url": "iris.png",
+    "lang_code": "IT",
+    "category": "",
+    "providers": []
+  },
+  {
+    "id": "652",
+    "name": "K2",
+    "logo_url": "k2.png",
+    "lang_code": "IT",
+    "category": "",
+    "providers": []
+  },
+  {
+    "id": "653",
+    "name": "LA7",
+    "logo_url": "la7.png",
+    "lang_code": "IT",
+    "category": "",
+    "providers": []
+  },
+  {
+    "id": "654",
+    "name": "LA7d",
+    "logo_url": "la7d.png",
+    "lang_code": "IT",
+    "category": "",
+    "providers": []
+  },
+  {
+    "id": "655",
+    "name": "LA5",
+    "logo_url": "la5.png",
+    "lang_code": "IT",
+    "category": "",
+    "providers": []
+  },
+  {
+    "id": "656",
+    "name": "Mediaset Extra",
+    "logo_url": "mediasetextra.png",
+    "lang_code": "IT",
+    "category": "",
+    "providers": []
+  },
+  {
+    "id": "659",
+    "name": "QVC",
+    "logo_url": "qvc.png",
+    "lang_code": "IT",
+    "category": "",
+    "providers": []
+  },
+  {
+    "id": "660",
+    "name": "Rai 5",
+    "logo_url": "rai5.png",
+    "lang_code": "IT",
+    "category": "",
+    "providers": []
+  },
+  {
+    "id": "156",
+    "name": "Rai Uno",
+    "logo_url": "RAI.png",
+    "lang_code": "IT",
+    "category": "",
+    "providers": []
+  },
+  {
+    "id": "557",
+    "name": "Rai Due",
+    "logo_url": "rai2.png",
+    "lang_code": "IT",
+    "category": "",
+    "providers": []
+  },
+  {
+    "id": "558",
+    "name": "Rai Tre",
+    "logo_url": "rai3.png",
+    "lang_code": "IT",
+    "category": "",
+    "providers": []
+  },
+  {
+    "id": "177",
+    "name": "Rete 4",
+    "logo_url": "rete4.png",
+    "lang_code": "IT",
+    "category": "",
+    "providers": []
+  },
+  {
+    "id": "634",
+    "name": "Rai Sport 1",
+    "logo_url": "raisport1.png",
+    "lang_code": "IT",
+    "category": "",
+    "providers": []
+  },
+  {
+    "id": "662",
+    "name": "Rai Movie",
+    "logo_url": "raimovie.png",
+    "lang_code": "IT",
+    "category": "",
+    "providers": []
+  },
+  {
+    "id": "663",
+    "name": "Rai Premium",
+    "logo_url": "raipremium.png",
+    "lang_code": "IT",
+    "category": "",
+    "providers": []
+  },
+  {
+    "id": "664",
+    "name": "Rai Gulp",
+    "logo_url": "raigulp.png",
+    "lang_code": "IT",
+    "category": "",
+    "providers": []
+  },
+  {
+    "id": "665",
+    "name": "Rai Yoyo",
+    "logo_url": "raiyoyo.png",
+    "lang_code": "IT",
+    "category": "",
+    "providers": []
+  },
+  {
+    "id": "666",
+    "name": "Rai Storia",
+    "logo_url": "raistoria.png",
+    "lang_code": "IT",
+    "category": "",
+    "providers": []
+  },
+  {
+    "id": "667",
+    "name": "Rai News",
+    "logo_url": "rainews.png",
+    "lang_code": "IT",
+    "category": "",
+    "providers": []
+  },
+  {
+    "id": "669",
+    "name": "RTL 102.5",
+    "logo_url": "rtl1025.png",
+    "lang_code": "IT",
+    "category": "",
+    "providers": []
+  },
+  {
+    "id": "673",
+    "name": "Supertennis",
+    "logo_url": "supertennis.png",
+    "lang_code": "IT",
+    "category": "",
+    "providers": []
+  },
+  {
+    "id": "675",
+    "name": "TV2000",
+    "logo_url": "tv2000.png",
+    "lang_code": "IT",
+    "category": "",
+    "providers": []
+  },
+  {
+    "id": "97",
+    "name": "1TV",
+    "logo_url": "1TV.png",
+    "lang_code": "RU",
+    "category": "",
+    "providers": []
+  },
+  {
+    "id": "552",
+    "name": "CGTN Russkij",
+    "logo_url": "cctv-rus.png",
+    "lang_code": "RU",
+    "category": "",
+    "providers": []
+  },
+  {
+    "id": "267",
+    "name": "Russian Travel Guide",
+    "logo_url": "rtgtv.png",
+    "lang_code": "RU",
+    "category": "",
+    "providers": []
+  },
+  {
+    "id": "101",
+    "name": "Dom Kino",
+    "logo_url": "rus2domkino.png",
+    "lang_code": "RU",
+    "category": "",
+    "providers": []
+  },
+  {
+    "id": "859",
+    "name": "Muzyka Pervogo",
+    "logo_url": "muz1.png",
+    "lang_code": "RU",
+    "category": "",
+    "providers": []
+  },
+  {
+    "id": "709",
+    "name": "Russia Today Doc",
+    "logo_url": "rtdoc.png",
+    "lang_code": "RU",
+    "category": "",
+    "providers": []
+  },
+  {
+    "id": "508",
+    "name": "RTR",
+    "logo_url": "planeta-rtr.png",
+    "lang_code": "RU",
+    "category": "",
+    "providers": []
+  },
+  {
+    "id": "1015",
+    "name": "Shanson TV",
+    "logo_url": "shanson.png",
+    "lang_code": "RU",
+    "category": "",
+    "providers": []
+  },
+  {
+    "id": "1016",
+    "name": "Soyuz",
+    "logo_url": "soyuz.png",
+    "lang_code": "RU",
+    "category": "",
+    "providers": []
+  },
+  {
+    "id": "1014",
+    "name": "TNT-Comedy",
+    "logo_url": "tntcomedy.png",
+    "lang_code": "RU",
+    "category": "",
+    "providers": []
+  },
+  {
+    "id": "555",
+    "name": "Russia 24",
+    "logo_url": "russia24.png",
+    "lang_code": "RU",
+    "category": "",
+    "providers": []
+  },
+  {
+    "id": "102",
+    "name": "Vremya",
+    "logo_url": "rus4VREMJA.png",
+    "lang_code": "RU",
+    "category": "",
+    "providers": []
+  },
+  {
+    "id": "1163",
+    "name": "Russia Today",
+    "logo_url": "russia_today.png",
+    "lang_code": "RU",
+    "category": "",
+    "providers": []
+  },
+  {
+    "id": "1250",
+    "name": "Carousel",
+    "logo_url": "carousel.png",
+    "lang_code": "RU",
+    "category": "",
+    "providers": []
+  },
+  {
+    "id": "1251",
+    "name": "Euronews (ru)",
+    "logo_url": "euronews.png",
+    "lang_code": "RU",
+    "category": "",
+    "providers": []
+  },
+  {
+    "id": "1327",
+    "name": "Poehali",
+    "logo_url": "poehali.png",
+    "lang_code": "RU",
+    "category": "",
+    "providers": []
+  },
+  {
+    "id": "1328",
+    "name": "Telecafe",
+    "logo_url": "telecafe.png",
+    "lang_code": "RU",
+    "category": "",
+    "providers": []
+  },
+  {
+    "id": "1329",
+    "name": "Telekanal O",
+    "logo_url": "telekanalo.png",
+    "lang_code": "RU",
+    "category": "",
+    "providers": []
+  },
+  {
+    "id": "1330",
+    "name": "Dom Kino Premium",
+    "logo_url": "domkinopremium.png",
+    "lang_code": "RU",
+    "category": "",
+    "providers": []
+  },
+  {
+    "id": "1331",
+    "name": "Bober",
+    "logo_url": "bober.png",
+    "lang_code": "RU",
+    "category": "",
+    "providers": []
+  },
+  {
+    "id": "1332",
+    "name": "RTVi",
+    "logo_url": "rtvi.png",
+    "lang_code": "RU",
+    "category": "",
+    "providers": []
+  },
+  {
+    "id": "1358",
+    "name": "Gulli Girl",
+    "logo_url": "gulligirl.png",
+    "lang_code": "RU",
+    "category": "",
+    "providers": []
+  },
+  {
+    "id": "1359",
+    "name": "TiJi",
+    "logo_url": "tiji.png",
+    "lang_code": "RU",
+    "category": "",
+    "providers": []
+  },
+  {
+    "id": "1365",
+    "name": "RTVi Retro",
+    "logo_url": "rtviretro.png",
+    "lang_code": "RU",
+    "category": "",
+    "providers": []
+  },
+  {
+    "id": "1368",
+    "name": "7D7TV",
+    "logo_url": "7d7tv.png",
+    "lang_code": "RU",
+    "category": "",
+    "providers": []
+  },
+  {
+    "id": "1462",
+    "name": "Viva Russia",
+    "logo_url": "vivarussia.png",
+    "lang_code": "RU",
+    "category": "",
+    "providers": []
+  },
+  {
+    "id": "1516",
+    "name": "Pobeda",
+    "logo_url": "pobeda.png",
+    "lang_code": "RU",
+    "category": "",
+    "providers": []
+  },
+  {
+    "id": "15323",
+    "name": "Mist TV",
+    "logo_url": "misttv.png",
+    "lang_code": "RU",
+    "category": "",
+    "providers": []
+  },
+  {
+    "id": "780",
+    "name": "33",
+    "logo_url": "33.png",
+    "lang_code": "ES",
+    "category": "",
+    "providers": []
+  },
+  {
+    "id": "782",
+    "name": "324",
+    "logo_url": "324.png",
+    "lang_code": "ES",
+    "category": "",
+    "providers": []
+  },
+  {
+    "id": "785",
+    "name": "13tv",
+    "logo_url": "13tv.png",
+    "lang_code": "ES",
+    "category": "",
+    "providers": []
+  },
+  {
+    "id": "737",
+    "name": "Antena3",
+    "logo_url": "antena3.png",
+    "lang_code": "ES",
+    "category": "",
+    "providers": []
+  },
+  {
+    "id": "738",
+    "name": "Boing (es)",
+    "logo_url": "boing_es.png",
+    "lang_code": "ES",
+    "category": "",
+    "providers": []
+  },
+  {
+    "id": "244",
+    "name": "Canal 24 Horas",
+    "logo_url": "24_horas.png",
+    "lang_code": "ES",
+    "category": "",
+    "providers": []
+  },
+  {
+    "id": "515",
+    "name": "CGTN Espanol",
+    "logo_url": "cntv-esp.png",
+    "lang_code": "ES",
+    "category": "",
+    "providers": []
+  },
+  {
+    "id": "767",
+    "name": "Clan TVE",
+    "logo_url": "clan.png",
+    "lang_code": "ES",
+    "category": "",
+    "providers": []
+  },
+  {
+    "id": "739",
+    "name": "Cuatro",
+    "logo_url": "cuatro.png",
+    "lang_code": "ES",
+    "category": "",
+    "providers": []
+  },
+  {
+    "id": "779",
+    "name": "Esport 3",
+    "logo_url": "esport3.png",
+    "lang_code": "ES",
+    "category": "",
+    "providers": []
+  },
+  {
+    "id": "741",
+    "name": "Energy",
+    "logo_url": "energy.png",
+    "lang_code": "ES",
+    "category": "",
+    "providers": []
+  },
+  {
+    "id": "742",
+    "name": "Factoría de Ficción",
+    "logo_url": "fdf.png",
+    "lang_code": "ES",
+    "category": "",
+    "providers": []
+  },
+  {
+    "id": "769",
+    "name": "La 1",
+    "logo_url": "la1.png",
+    "lang_code": "ES",
+    "category": "",
+    "providers": []
+  },
+  {
+    "id": "770",
+    "name": "La 2",
+    "logo_url": "la2.png",
+    "lang_code": "ES",
+    "category": "",
+    "providers": []
+  },
+  {
+    "id": "771",
+    "name": "La 1 Cataluňa",
+    "logo_url": "la1.png",
+    "lang_code": "ES",
+    "category": "",
+    "providers": []
+  },
+  {
+    "id": "772",
+    "name": "La 2 Cataluňa",
+    "logo_url": "la2.png",
+    "lang_code": "ES",
+    "category": "",
+    "providers": []
+  },
+  {
+    "id": "784",
+    "name": "MTV (es)",
+    "logo_url": "mtv.png",
+    "lang_code": "ES",
+    "category": "",
+    "providers": []
+  },
+  {
+    "id": "728",
+    "name": "Neox",
+    "logo_url": "neox_es.png",
+    "lang_code": "ES",
+    "category": "",
+    "providers": []
+  },
+  {
+    "id": "744",
+    "name": "Nova (es)",
+    "logo_url": "nova_es.png",
+    "lang_code": "ES",
+    "category": "",
+    "providers": []
+  },
+  {
+    "id": "781",
+    "name": "Super3",
+    "logo_url": "super3.png",
+    "lang_code": "ES",
+    "category": "",
+    "providers": []
+  },
+  {
+    "id": "768",
+    "name": "Teledeporte",
+    "logo_url": "tdp.png",
+    "lang_code": "ES",
+    "category": "",
+    "providers": []
+  },
+  {
+    "id": "747",
+    "name": "Telecinco",
+    "logo_url": "telecinco.png",
+    "lang_code": "ES",
+    "category": "",
+    "providers": []
+  },
+  {
+    "id": "119",
+    "name": "TVE",
+    "logo_url": "tve.png",
+    "lang_code": "ES",
+    "category": "",
+    "providers": []
+  },
+  {
+    "id": "777",
+    "name": "TV3CAT",
+    "logo_url": "tv3cat.png",
+    "lang_code": "ES",
+    "category": "",
+    "providers": []
+  },
+  {
+    "id": "783",
+    "name": "TV3",
+    "logo_url": "tv3.png",
+    "lang_code": "ES",
+    "category": "",
+    "providers": []
+  }
+]
