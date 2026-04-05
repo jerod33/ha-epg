@@ -139,6 +139,7 @@ class EPGConfigFlow(config_entries.ConfigFlow, domain=DOMAIN):
 
         page_dict = {ch["id"]: f"{ch['name']} ({ch['lang_code']})" for ch in page_channels}
         page_preselected = [ch["id"] for ch in page_channels if ch["id"] in self._selected_ids]
+        current_display_page = self._current_page + 1
 
         return self.async_show_form(
             step_id="channel_page",
@@ -146,7 +147,7 @@ class EPGConfigFlow(config_entries.ConfigFlow, domain=DOMAIN):
                 vol.Optional(CONF_TV_IDS, default=page_preselected): cv.multi_select(page_dict),
             }),
             description_placeholders={
-                "page": str(self._current_page + 1),
+                "page": str(current_display_page),
                 "total": str(total_pages),
             },
         )
@@ -276,6 +277,7 @@ class EPGOptionsFlow(config_entries.OptionsFlow):
 
         page_dict = {ch["id"]: f"{ch['name']} ({ch['lang_code']})" for ch in page_channels}
         page_preselected = [ch["id"] for ch in page_channels if ch["id"] in self._selected_ids]
+        current_display_page = self._current_page + 1
 
         return self.async_show_form(
             step_id="channel_page",
@@ -283,7 +285,7 @@ class EPGOptionsFlow(config_entries.OptionsFlow):
                 vol.Optional(CONF_TV_IDS, default=page_preselected): cv.multi_select(page_dict),
             }),
             description_placeholders={
-                "page": str(self._current_page + 1),
+                "page": str(current_display_page),
                 "total": str(total_pages),
             },
         )

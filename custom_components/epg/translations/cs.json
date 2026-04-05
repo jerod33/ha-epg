@@ -27,8 +27,8 @@
         }
       },
       "channel_page": {
-        "title": "Výběr kanálů",
-        "description": "Stránka {page} z {total} – zaškrtněte kanály které chcete sledovat.",
+        "title": "Výběr kanálů – stránka {page} z {total}",
+        "description": "Zaškrtněte kanály které chcete sledovat.",
         "data": {
           "tv_ids": "Kanály"
         }
@@ -60,8 +60,8 @@
         }
       },
       "channel_page": {
-        "title": "Výběr kanálů",
-        "description": "Stránka {page} z {total} – zaškrtněte kanály které chcete sledovat.",
+        "title": "Výběr kanálů – stránka {page} z {total}",
+        "description": "Zaškrtněte kanály které chcete sledovat.",
         "data": {
           "tv_ids": "Kanály"
         }
