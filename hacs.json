@@ -1,5 +1,10 @@
 {
+  "domain": "epg",
   "name": "EPG",
-  "content_in_root": false,
-  "render_readme": true
+  "version": "1.0.1",
+  "documentation": "https://github.com/jerod33/ha-epg",
+  "requirements": ["aiofiles>=23.0.0", "xmltodict>=0.13.0"],
+  "codeowners": ["@jerod33"],
+  "iot_class": "cloud_polling",
+  "config_flow": true
 }
