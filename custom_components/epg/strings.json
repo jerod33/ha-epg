@@ -6,6 +6,7 @@
     "step": {
       "user": {
         "title": "Nastavení EPG",
+        "description": "Vyberte počet dní a způsob výběru kanálů.",
         "data": {
           "days": "Počet dní dopředu (1–7)",
           "selection_mode": "Způsob výběru kanálů"
@@ -13,18 +14,21 @@
       },
       "select_language": {
         "title": "Výběr jazyků",
+        "description": "Vyberte jazyky kanálů které chcete sledovat.",
         "data": {
           "languages": "Jazyky"
         }
       },
       "select_provider": {
         "title": "Výběr providera",
+        "description": "Vyberte vašeho TV providera.",
         "data": {
           "providers": "Provideři"
         }
       },
       "channel_page": {
-        "title": "Výběr kanálů (stránka {page} z {total})",
+        "title": "Výběr kanálů",
+        "description": "Stránka {page} z {total} – zaškrtněte kanály které chcete sledovat.",
         "data": {
           "tv_ids": "Kanály"
         }
@@ -35,6 +39,7 @@
     "step": {
       "init": {
         "title": "Nastavení EPG",
+        "description": "Upravte počet dní a způsob výběru kanálů.",
         "data": {
           "days": "Počet dní dopředu (1–7)",
           "selection_mode": "Způsob výběru kanálů"
@@ -42,18 +47,21 @@
       },
       "select_language": {
         "title": "Výběr jazyků",
+        "description": "Vyberte jazyky kanálů které chcete sledovat.",
         "data": {
           "languages": "Jazyky"
         }
       },
       "select_provider": {
         "title": "Výběr providera",
+        "description": "Vyberte vašeho TV providera.",
         "data": {
           "providers": "Provideři"
         }
       },
       "channel_page": {
-        "title": "Výběr kanálů (stránka {page} z {total})",
+        "title": "Výběr kanálů",
+        "description": "Stránka {page} z {total} – zaškrtněte kanály které chcete sledovat.",
         "data": {
           "tv_ids": "Kanály"
         }

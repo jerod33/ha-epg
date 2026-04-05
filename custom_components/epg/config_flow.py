@@ -17,14 +17,14 @@ _LOGGER = logging.getLogger(__name__)
 
 
 def load_channels():
-    """Load channel data from JSON file synchronously (called once at setup)."""
+    """Načte kanály z default_channels.json synchronně."""
     data_file = os.path.join(os.path.dirname(__file__), "default_channels.json")
     with open(data_file, "r", encoding="utf-8") as f:
         return json.load(f)
 
 
 class EPGConfigFlow(config_entries.ConfigFlow, domain=DOMAIN):
-    """Handle a config flow for EPG."""
+    """Config flow pro EPG integraci."""
 
     VERSION = 1
 
@@ -56,6 +56,7 @@ class EPGConfigFlow(config_entries.ConfigFlow, domain=DOMAIN):
                 return await self.async_step_select_provider()
             else:
                 self._filtered_channels = self._all_channels
+                self._selected_ids = set()
                 self._current_page = 0
                 return await self.async_step_channel_page()
 
@@ -125,12 +126,11 @@ class EPGConfigFlow(config_entries.ConfigFlow, domain=DOMAIN):
                     (self._current_page + 1) * CHANNELS_PER_PAGE
                 ]
             }
-            # Odeber odškrtnuté, přidej zaškrtnuté z této stránky
             self._selected_ids -= page_all
             self._selected_ids |= page_selected
             self._current_page += 1
 
-        total_pages = (len(self._filtered_channels) - 1) // CHANNELS_PER_PAGE + 1
+        total_pages = max(1, (len(self._filtered_channels) - 1) // CHANNELS_PER_PAGE + 1)
         start = self._current_page * CHANNELS_PER_PAGE
         page_channels = self._filtered_channels[start: start + CHANNELS_PER_PAGE]
 
@@ -152,26 +152,30 @@ class EPGConfigFlow(config_entries.ConfigFlow, domain=DOMAIN):
         )
 
     async def async_step_confirm(self, user_input=None) -> FlowResult:
-        """Krok 4: potvrzení a uložení."""
-        if user_input is not None or True:
-            return self.async_create_entry(
-                title="EPG",
-                data={
-                    CONF_TV_IDS: list(self._selected_ids),
-                    CONF_DAYS: self._days,
-                },
-            )
+        """Krok 4: uložení."""
+        return self.async_create_entry(
+            title="EPG",
+            data={
+                CONF_TV_IDS: list(self._selected_ids),
+                CONF_DAYS: self._days,
+            },
+        )
 
 
 class EPGOptionsFlow(config_entries.OptionsFlow):
-    """Options flow – stejná logika jako config flow."""
+    """Options flow pro EPG integraci."""
 
     def __init__(self, config_entry):
         self._all_channels = []
         self._filtered_channels = []
-        self._selected_ids = set(config_entry.data.get(CONF_TV_IDS, []))
+        self._selected_ids = set(
+            config_entry.options.get(CONF_TV_IDS,
+            config_entry.data.get(CONF_TV_IDS, []))
+        )
         self._current_page = 0
-        self._days = config_entry.data.get(CONF_DAYS, 7)
+        self._days = config_entry.options.get(
+            CONF_DAYS, config_entry.data.get(CONF_DAYS, 7)
+        )
         self.config_entry = config_entry
 
     async def async_step_init(self, user_input=None) -> FlowResult:
@@ -257,7 +261,7 @@ class EPGOptionsFlow(config_entries.OptionsFlow):
             self._selected_ids |= page_selected
             self._current_page += 1
 
-        total_pages = (len(self._filtered_channels) - 1) // CHANNELS_PER_PAGE + 1
+        total_pages = max(1, (len(self._filtered_channels) - 1) // CHANNELS_PER_PAGE + 1)
         start = self._current_page * CHANNELS_PER_PAGE
         page_channels = self._filtered_channels[start: start + CHANNELS_PER_PAGE]
 
