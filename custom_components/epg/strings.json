@@ -20,15 +20,15 @@
         }
       },
       "select_provider": {
-        "title": "Výběr providera",
-        "description": "Vyberte vašeho TV providera.",
+        "title": "Výběr poskytovatele",
+        "description": "Vyberte vašeho TV poskytovatele.",
         "data": {
-          "providers": "Provideři"
+          "providers": "Poskytovatelé"
         }
       },
-      "channel_page": {
+      "select_channels": {
         "title": "Výběr kanálů",
-        "description": "Stránka {page} z {total} – zaškrtněte kanály které chcete sledovat.",
+        "description": "Vyberte kanály ze seznamu ({count} dostupných).",
         "data": {
           "tv_ids": "Kanály"
         }
@@ -53,15 +53,15 @@
         }
       },
       "select_provider": {
-        "title": "Výběr providera",
-        "description": "Vyberte vašeho TV providera.",
+        "title": "Výběr poskytovatele",
+        "description": "Vyberte vašeho TV poskytovatele.",
         "data": {
-          "providers": "Provideři"
+          "providers": "Poskytovatelé"
         }
       },
-      "channel_page": {
+      "select_channels": {
         "title": "Výběr kanálů",
-        "description": "Stránka {page} z {total} – zaškrtněte kanály které chcete sledovat.",
+        "description": "Vyberte kanály ze seznamu ({count} dostupných).",
         "data": {
           "tv_ids": "Kanály"
         }
